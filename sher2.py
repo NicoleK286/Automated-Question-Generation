@@ -25,13 +25,13 @@ def sher(sher_ready):
     predicted_labels2 = predict_sherlock(X_test2, nn_id='sherlock')
     sher_pred = predicted_labels2.tolist()
 
-#    sher_messages = []
-#    for label in sher_pred:
-#        index = test_labels.index[test_labels['category'] == label][0]
-#        message = f"Meta category {label} is associated with row index {index}"
-#        sher_messages.append(message)
-#    sher2 = "\n".join(sher_messages)
-#    print(sher2)
+    sher_messages = []
+    for label in sher_pred:
+        index = test_labels.index[test_labels['category'] == label][0]
+        message = f"Meta category {label} is associated with row index {index}"
+        sher_messages.append(message)
+    sher2 = "\n".join(sher_messages)
+    print(sher2)
     
     return sher_pred
 

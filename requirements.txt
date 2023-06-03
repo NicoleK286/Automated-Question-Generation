@@ -1,4 +1,4 @@
-(cryseve) [nickoshy@i24 QGD]$ pip freeze
+
 absl-py==0.15.0
 astunparse==1.6.3
 beautifulsoup4==4.12.0

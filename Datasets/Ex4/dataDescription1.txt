@@ -1,0 +1,5 @@
+COVID-19 Cases By Zip
+
+Confirmed COVID cases, total populations and percent of total population by zip code.
+
+This dataset is a running summation of positive cases reported by zip code. Historical data will continue to change as new information is reported to ISDH. This dataset should not be used to determine new cases occurring in the past week as it includes new historical cases as well.

@@ -1,0 +1,5 @@
+Column Name,Column Description
+Zip Code,The 5 digit zip code (Indiana only)
+City,City Name associated with zip code
+Population,Count of zip codes' population of African American or Latino (Zip Atlas/2010 census)
+Percentage Latino,Percentage of overall population that is African American or Latino (Zip Atlas/2010 census)

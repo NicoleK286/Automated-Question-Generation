@@ -1,0 +1,17 @@
+Field_Name,Field_Description
+COUNTY,County Name
+SURVY_YYYYMM,Month and year the survey results were collected
+SURVY_QUESTN_SHORT_DESC,An abbreviated version of the question used for reporting purposes
+SURVY_QUESTN_LONG_DESC,The full text of the question as it appeared on the survey
+QUESTION_NUM,The question number that appears on the survey
+Q1_RESP_COUNT,The count of responses by county to the indicated question
+Q2_RESP_COUNT,The count of responses by county to the indicated question
+Q3_RESP_COUNT,The count of responses by county to the indicated question
+Q4_RESP_COUNT,The count of responses by county to the indicated question
+Q5_RESP_COUNT,The count of responses by county to the indicated question
+Q6_RESP_COUNT,The count of responses by county to the indicated question
+Q7_RESP_COUNT,The count of responses by county to the indicated question
+Q8_RESP_COUNT,The count of responses by county to the indicated question
+Q9_RESP_COUNT,The count of responses by county to the indicated question
+Q10_RESP_COUNT,The count of responses by county to the indicated question
+ETL_RUN_TIMESTAMP,ETL Timestamp when row was inserted/generated

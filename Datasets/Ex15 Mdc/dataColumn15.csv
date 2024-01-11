@@ -1,0 +1,5 @@
+Column name,Field Description
+zip,Indiana Zipcode
+Pregnancy group,"Individual reported pregnant, breastfeeding, or planning to be pregnant"
+race,The racial demographic the individual reported
+Person id,Unique identifier for an individual

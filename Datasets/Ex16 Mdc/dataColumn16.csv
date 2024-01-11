@@ -1,0 +1,4 @@
+Field Name,Field Description
+County Name,Name of Indiana County
+Counties With Inpatient Delivery Services Available,A Yes (Y) or No (N) flag indicating if a county did or did not have inpatient delivery services available
+Counties With Hospital,A Yes (Y) or No (N) flag indicating if a county did or did not have a hospital available

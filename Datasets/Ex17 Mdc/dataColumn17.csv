@@ -1,0 +1,31 @@
+Field_Name,Field_Description
+COUNTY,County Name
+FEMALE_COUNT,Count of survey records where the respondent indicated gender was female
+MALE_COUNT,Count of survey records where the respondent indicated gender was male
+18-22_COUNT,Count of survey respondents grouped by age as derived from provided date of birth
+23-27_COUNT,Count of survey respondents grouped by age as derived from provided date of birth
+28-32_COUNT,Count of survey respondents grouped by age as derived from provided date of birth
+33-37_COUNT,Count of survey respondents grouped by age as derived from provided date of birth
+38-42_COUNT,Count of survey respondents grouped by age as derived from provided date of birth
+43-47_COUNT,Count of survey respondents grouped by age as derived from provided date of birth
+48-52_COUNT,Count of survey respondents grouped by age as derived from provided date of birth
+53-57_COUNT,Count of survey respondents grouped by age as derived from provided date of birth
+58-62_COUNT,Count of survey respondents grouped by age as derived from provided date of birth
+MARRIED_COUNT,Count of survey respondents grouped by provided marital status
+SEPARATED_COUNT,Count of survey respondents grouped by provided marital status
+DIVORCED_COUNT,Count of survey respondents grouped by provided marital status
+SINGLE_COUNT,Count of survey respondents grouped by provided marital status
+WIDOWED_COUNT,Count of survey respondents grouped by provided marital status
+BLACK_COUNT,Count of survey respondents grouped by self reported race identification
+WHITE_COUNT,Count of survey respondents grouped by self reported race identification
+CITIZEN_COUNT,Count of survey respondents that identified as U.S. citizens
+NO_FORMAL_ED_COUNT,Count of survey respondents grouped by self reported highest education level completed
+NO_HS_DIPLOMA_COUNT,Count of survey respondents grouped by self reported highest education level completed
+HS_DIPLOMA_COUNT,Count of survey respondents grouped by self reported highest education level completed
+ATTENDING_SCHOOL_COUNT,Count of survey respondents grouped by self reported as attending school at the time of the survey
+QUESTION_NUM,The question number that appears on the survey
+QUESTION_LONG_DESC,The full text of the question as it appeared on the survey
+QUESTION_SHORT_DESC,An abbreviated version of the question used for reporting purposes
+QUESTION_COUNT,"The count of ""yes"" responses to the indicated question"
+COUNTY_COUNT,The count of responses by county to the indicated question
+ETL_RUN_TIMESTAMP,ETL Timestamp when row was inserted/generated

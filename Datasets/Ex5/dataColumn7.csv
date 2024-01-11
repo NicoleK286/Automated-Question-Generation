@@ -1,0 +1,7 @@
+_id,Field Name,Field Description
+1,DISTRICT,ISDH Health District ID. Refer to in.gov/isdh/26777.html
+3,COVID_COUNT,Total number of confirmed cases
+4,COVID_DEATHS,Total number of deaths.
+5,COVID_TEST,Total number of testings.
+6,POSITIVITY_RATE_ALL_TESTS,"Total positivity percentage for the ISDH Health District, by day.  Measured by all positive tests divided by all tests administered. This is an externally calculated field. Because COVID_COUNT is based on investigation starting date, and COVID_TESTS is based on specimen collection date/report date, the positivity rate cannot be calculated from just these included columns. Any attempt to match the presented positivity rate by calculating it with these values will not match. Column is NULL after 3/30/22 because of a change in reporting requirements"
+7,COVID_COUNT_BY_SPECIMEN_COLLECTION_DATE,"Total number of confirmed cases grouped by their lab specimen collection date. In instances where the specimen collection date is not provided, the date the specimen result is recorded in the ISDH system is used."

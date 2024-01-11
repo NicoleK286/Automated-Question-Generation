@@ -1,0 +1,2217 @@
+_id,Year,County Name,Race/Ethnicity,No Early Prenatal Care,Births,SUIDS,Infant Dealths Counts,Preterm Birth,Female Population Age 15-44
+1,2014,Crawford,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,3
+2,2014,Howard,Non-Hispanic Black,42,106,Suppressed,Suppressed,Suppressed,1219
+3,2014,Jay,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,7
+4,2014,Parke,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,272
+5,2014,Posey,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,43
+6,2014,Warren,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,4
+7,2015,Blackford,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,6
+8,2015,Clark,Non-Hispanic Black,44,110,Suppressed,Suppressed,17,1797
+9,2015,Clay,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,17
+10,2015,Jasper,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,65
+11,2015,Madison,Non-Hispanic Black,48,147,Suppressed,Suppressed,Suppressed,1965
+12,2015,Orange,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,30
+13,2015,Vermillion,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,5
+14,2015,Whitley,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,20
+15,2016,Clark,Non-Hispanic Black,51,123,Suppressed,Suppressed,Suppressed,1820
+16,2016,Crawford,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,5
+17,2016,De Kalb,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,26
+18,2016,Dubois,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,43
+19,2016,Lagrange,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,28
+20,2016,Warrick,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,170
+21,2017,Brown,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,16
+22,2017,Daviess,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,87
+23,2017,Gibson,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,114
+24,2017,Grant,Non-Hispanic Black,24,66,Suppressed,Suppressed,Suppressed,842
+25,2017,Jefferson,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,202
+26,2017,Miami,Non-Hispanic Black,Suppressed,13,Suppressed,Suppressed,Suppressed,109
+27,2017,Vanderburgh,Non-Hispanic Black,101,270,Suppressed,Suppressed,30,3661
+28,2018,Clay,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,18
+29,2018,Elkhart,Non-Hispanic Black,144,270,Suppressed,11,32,2395
+30,2018,Gibson,Non-Hispanic Black,Suppressed,12,Suppressed,Suppressed,Suppressed,104
+31,2018,Johnson,Non-Hispanic Black,24,71,Suppressed,Suppressed,Suppressed,834
+32,2018,Parke,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,260
+33,2018,Starke,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,17
+34,2018,Tippecanoe,Non-Hispanic Black,93,253,Suppressed,Suppressed,38,2957
+35,2018,Wells,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,32
+36,2019,Decatur,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,30
+37,2019,Elkhart,Non-Hispanic Black,125,252,Suppressed,Suppressed,Suppressed,2391
+38,2019,Fulton,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,18
+39,2019,Huntington,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,64
+40,2019,Marion,Non-Hispanic Black,2266,4807,14,50,636,64206
+41,2019,Porter,Non-Hispanic Black,28,112,Suppressed,Suppressed,Suppressed,1743
+42,2019,Putnam,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,129
+43,2014,Greene,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,98
+44,2014,Harrison,Hispanic,Suppressed,10,Suppressed,Suppressed,Suppressed,151
+45,2014,Spencer,Hispanic,Suppressed,11,Suppressed,Suppressed,Suppressed,128
+46,2015,Fountain,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,87
+47,2015,Knox,Hispanic,Suppressed,13,Suppressed,Suppressed,Suppressed,177
+48,2015,Putnam,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,162
+49,2015,Rush,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,53
+50,2015,Steuben,Hispanic,Suppressed,13,Suppressed,Suppressed,Suppressed,223
+51,2015,Wayne,Hispanic,Suppressed,23,Suppressed,Suppressed,Suppressed,380
+52,2016,Harrison,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,144
+53,2016,St. Joseph,Hispanic,167,387,Suppressed,Suppressed,50,5506
+54,2016,Vanderburgh,Hispanic,20,66,Suppressed,Suppressed,Suppressed,1120
+55,2016,Vigo,Hispanic,Suppressed,21,Suppressed,Suppressed,Suppressed,505
+56,2017,Delaware,Hispanic,Suppressed,22,Suppressed,Suppressed,Suppressed,778
+57,2017,Hamilton,Hispanic,57,149,Suppressed,Suppressed,13,3137
+58,2017,Newton,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,201
+59,2017,Ohio,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,18
+60,2017,Sullivan,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,59
+61,2018,Allen,Hispanic,227,467,Suppressed,Suppressed,40,6498
+62,2018,Blackford,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,52
+63,2018,De Kalb,Hispanic,Suppressed,18,Suppressed,Suppressed,Suppressed,318
+64,2018,Gibson,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,110
+65,2018,Greene,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,110
+66,2018,Harrison,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,163
+67,2018,Madison,Hispanic,Suppressed,75,Suppressed,Suppressed,Suppressed,1116
+68,2018,Miami,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,218
+69,2019,Allen,Hispanic,252,514,Suppressed,Suppressed,42,6684
+70,2019,Bartholomew,Hispanic,49,121,Suppressed,Suppressed,16,1249
+71,2019,Clark,Hispanic,45,121,Suppressed,Suppressed,Suppressed,1453
+72,2019,Decatur,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,111
+73,2019,Dubois,Hispanic,19,76,Suppressed,Suppressed,Suppressed,674
+74,2019,Grant,Hispanic,Suppressed,46,Suppressed,Suppressed,Suppressed,598
+75,2019,Howard,Hispanic,Suppressed,30,Suppressed,Suppressed,Suppressed,622
+76,2019,Johnson,Hispanic,19,58,Suppressed,Suppressed,Suppressed,1401
+77,2019,Lake,Hispanic,476,1311,Suppressed,Suppressed,121,21846
+78,2019,Tipton,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,89
+79,2014,Floyd,Non-Hispanic White,174,755,Suppressed,Suppressed,86,12800
+80,2014,Grant,Non-Hispanic White,159,621,Suppressed,Suppressed,61,11723
+81,2014,Jasper,Non-Hispanic White,93,346,Suppressed,Suppressed,24,5465
+82,2014,Lake,Non-Hispanic White,726,2876,Suppressed,13,235,46086
+83,2015,Crawford,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,17,1663
+84,2015,Decatur,Non-Hispanic White,Suppressed,342,Suppressed,Suppressed,36,4567
+85,2015,Howard,Non-Hispanic White,236,835,Suppressed,Suppressed,76,12435
+86,2015,Jennings,Non-Hispanic White,83,296,Suppressed,Suppressed,26,4840
+87,2015,Parke,Non-Hispanic White,93,Suppressed,Suppressed,Suppressed,18,3079
+88,2015,Randolph,Non-Hispanic White,65,281,Suppressed,Suppressed,Suppressed,4012
+89,2015,Ripley,Non-Hispanic White,Suppressed,317,Suppressed,Suppressed,28,4882
+90,2015,Shelby,Non-Hispanic White,114,448,Suppressed,Suppressed,Suppressed,7203
+91,2015,Vigo,Non-Hispanic White,382,1159,Suppressed,Suppressed,121,18395
+92,2015,Wabash,Non-Hispanic White,103,318,Suppressed,Suppressed,28,5268
+93,2015,Warren,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,14,1269
+94,2016,Blackford,Non-Hispanic White,Suppressed,126,Suppressed,Suppressed,Suppressed,1857
+95,2016,Henry,Non-Hispanic White,Suppressed,457,Suppressed,Suppressed,Suppressed,7448
+96,2016,Parke,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,15,3000
+97,2016,Shelby,Non-Hispanic White,87,457,Suppressed,Suppressed,Suppressed,7118
+98,2016,Wayne,Non-Hispanic White,284,648,Suppressed,Suppressed,Suppressed,10459
+99,2017,Bartholomew,Non-Hispanic White,223,797,Suppressed,Suppressed,51,11890
+100,2017,Cass,Non-Hispanic White,67,308,Suppressed,Suppressed,29,5001
+101,2017,Jay,Non-Hispanic White,93,275,Suppressed,Suppressed,Suppressed,3387
+102,2017,Madison,Non-Hispanic White,237,1168,Suppressed,Suppressed,140,19535
+103,2017,Montgomery,Non-Hispanic White,93,417,Suppressed,Suppressed,Suppressed,5986
+104,2017,Putnam,Non-Hispanic White,Suppressed,358,Suppressed,Suppressed,Suppressed,6416
+105,2017,Rush,Non-Hispanic White,43,Suppressed,Suppressed,Suppressed,17,2754
+106,2018,Benton,Non-Hispanic White,28,95,Suppressed,Suppressed,Suppressed,1342
+107,2018,Delaware,Non-Hispanic White,174,893,Suppressed,Suppressed,84,22119
+108,2018,Dubois,Non-Hispanic White,73,428,Suppressed,Suppressed,48,6403
+109,2018,Perry,Non-Hispanic White,54,178,Suppressed,Suppressed,Suppressed,2764
+110,2019,Dubois,Non-Hispanic White,79,440,Suppressed,Suppressed,58,6309
+111,2019,Gibson,Non-Hispanic White,Suppressed,360,Suppressed,Suppressed,Suppressed,5429
+112,2019,Hamilton,Non-Hispanic White,378,2975,Suppressed,14,241,54101
+113,2019,Madison,Non-Hispanic White,269,1162,Suppressed,Suppressed,121,19384
+114,2019,Martin,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,1557
+115,2019,Newton,Non-Hispanic White,30,112,Suppressed,Suppressed,Suppressed,2000
+116,2019,St. Joseph,Non-Hispanic White,638,2135,Suppressed,16,199,37170
+117,2014,Bartholomew,All,331,1052,Suppressed,10,94,14933
+118,2014,Blackford,All,45,136,Suppressed,Suppressed,26,2053
+119,2014,Brown,All,27,97,Suppressed,Suppressed,Suppressed,2205
+120,2014,Hamilton,All,631,3888,Suppressed,19,403,61680
+121,2014,Jasper,All,112,385,Suppressed,Suppressed,29,6076
+122,2014,Montgomery,All,128,430,Suppressed,Suppressed,34,6482
+123,2014,Randolph,All,68,297,Suppressed,Suppressed,24,4366
+124,2014,Sullivan,All,81,247,Suppressed,Suppressed,30,3373
+125,2014,Wells,All,108,336,Suppressed,Suppressed,28,4774
+126,2015,Boone,All,116,773,Suppressed,Suppressed,79,11963
+127,2015,Brown,All,40,120,Suppressed,Suppressed,Suppressed,2238
+128,2015,Daviess,All,191,519,Suppressed,Suppressed,43,5835
+129,2015,Dearborn,All,125,536,Suppressed,Suppressed,54,8671
+130,2015,Huntington,All,111,434,Suppressed,Suppressed,47,6860
+131,2015,Kosciusko,All,607,1027,Suppressed,7,71,14596
+132,2015,Pike,All,19,137,Suppressed,Suppressed,10,2036
+133,2015,Spencer,All,49,191,Suppressed,Suppressed,12,3412
+134,2015,Starke,All,118,263,Suppressed,Suppressed,18,4007
+135,2015,Tippecanoe,All,580,2388,7,23,204,44903
+136,2015,Vermillion,All,54,169,Suppressed,Suppressed,Suppressed,2643
+137,2016,Fayette,All,76,216,Suppressed,Suppressed,23,4033
+138,2016,Huntington,All,119,417,Suppressed,5,37,6752
+139,2016,Jefferson,All,64,388,Suppressed,Suppressed,40,6455
+140,2016,Marion,All,5071,14205,13,124,1638,206514
+141,2016,Pulaski,All,56,131,Suppressed,Suppressed,20,2043
+142,2016,Putnam,All,86,390,Suppressed,Suppressed,43,6868
+143,2016,Rush,All,62,203,Suppressed,Suppressed,18,2878
+144,2016,Starke,All,92,279,Suppressed,Suppressed,28,3973
+145,2016,Wayne,All,338,749,Suppressed,Suppressed,61,11973
+146,2017,Benton,All,34,109,Suppressed,Suppressed,11,1464
+147,2017,Hamilton,All,611,3887,Suppressed,23,347,64594
+148,2017,LaPorte,All,525,1276,Suppressed,6,150,18248
+149,2017,Marion,All,5609,14331,14,107,1627,208366
+150,2017,Ohio,All,10,70,Suppressed,Suppressed,Suppressed,892
+151,2017,Ripley,All,120,339,Suppressed,6,25,5023
+152,2017,Shelby,All,90,499,Suppressed,7,60,7796
+153,2017,Vigo,All,416,1223,Suppressed,13,145,21285
+154,2017,Washington,All,128,322,Suppressed,Suppressed,41,4820
+155,2017,Wells,All,77,328,Suppressed,Suppressed,31,4723
+156,2018,Delaware,All,226,1072,Suppressed,9,113,25959
+157,2018,Franklin,All,104,277,Suppressed,Suppressed,15,3844
+158,2018,Lake,All,2024,5765,7,41,629,92479
+159,2018,Marion,All,5397,13887,14,112,1556,209633
+160,2018,Marshall,All,205,535,Suppressed,6,58,7963
+161,2018,Owen,All,63,245,Suppressed,Suppressed,26,3431
+162,2018,Putnam,All,61,376,Suppressed,Suppressed,22,6956
+163,2018,Rush,All,48,196,Suppressed,Suppressed,12,2883
+164,2018,Scott,All,95,257,Suppressed,Suppressed,37,4325
+165,2018,Steuben,All,142,392,Suppressed,Suppressed,32,5620
+166,2018,Sullivan,All,51,222,Suppressed,Suppressed,32,3257
+167,2018,Washington,All,114,318,Suppressed,Suppressed,25,4881
+168,2019,Brown,All,19,101,Suppressed,Suppressed,Suppressed,2185
+169,2019,De Kalb,All,236,547,Suppressed,Suppressed,54,7872
+170,2019,Madison,All,348,1414,Suppressed,12,150,23152
+171,2019,Ohio,All,14,50,Suppressed,Suppressed,11,904
+172,2014,Blackford,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,8
+173,2014,Clinton,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,13
+174,2014,Fountain,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,8
+175,2014,Jackson,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,71
+176,2014,Monroe,Non-Hispanic Black,27,71,Suppressed,Suppressed,Suppressed,1559
+177,2014,Montgomery,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,43
+178,2014,Morgan,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,44
+179,2014,Noble,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,40
+180,2014,Scott,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,11
+181,2014,Union,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,11
+182,2014,Washington,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,10
+183,2014,White,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,15
+184,2015,Decatur,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,19
+185,2015,Floyd,Non-Hispanic Black,23,80,Suppressed,Suppressed,10,869
+186,2015,Harrison,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,29
+187,2015,Howard,Non-Hispanic Black,33,92,Suppressed,Suppressed,Suppressed,1213
+188,2015,Jennings,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,31
+189,2015,Monroe,Non-Hispanic Black,20,67,Suppressed,Suppressed,Suppressed,1580
+190,2015,Pulaski,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,14
+191,2015,Vanderburgh,Non-Hispanic Black,93,290,Suppressed,Suppressed,38,3671
+192,2015,Vigo,Non-Hispanic Black,35,80,Suppressed,Suppressed,Suppressed,1630
+193,2016,Boone,Non-Hispanic Black,Suppressed,19,Suppressed,Suppressed,Suppressed,223
+194,2016,Clinton,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,15
+195,2016,Franklin,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,17
+196,2016,Harrison,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,28
+197,2016,Huntington,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,92
+198,2016,Jennings,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,30
+199,2016,Lake,Non-Hispanic Black,583,1742,Suppressed,23,234,24761
+200,2016,Randolph,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,26
+201,2016,Ripley,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,21
+202,2016,Scott,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,13
+203,2016,Steuben,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,44
+204,2017,Cass,Non-Hispanic Black,Suppressed,13,Suppressed,Suppressed,Suppressed,81
+205,2017,Crawford,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,5
+206,2017,Franklin,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,16
+207,2017,Knox,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,338
+208,2017,Madison,Non-Hispanic Black,44,137,Suppressed,Suppressed,18,1897
+209,2017,Noble,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,41
+210,2017,St. Joseph,Non-Hispanic Black,349,746,6,15,95,7990
+211,2017,Tippecanoe,Non-Hispanic Black,113,265,Suppressed,Suppressed,55,2827
+212,2017,Union,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,8
+213,2018,Brown,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,16
+214,2018,Clinton,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,25
+215,2018,Daviess,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,99
+216,2018,Lagrange,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,31
+217,2018,Morgan,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,56
+218,2018,Perry,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,14
+219,2018,Pike,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,7
+220,2018,Rush,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,22
+221,2019,Dearborn,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,62
+222,2019,De Kalb,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,36
+223,2019,Henry,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,69
+224,2019,Rush,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,21
+225,2019,Shelby,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,104
+226,2019,Tippecanoe,Non-Hispanic Black,114,270,Suppressed,Suppressed,35,3170
+227,2014,Grant,Hispanic,Suppressed,41,Suppressed,Suppressed,Suppressed,574
+228,2014,Hamilton,Hispanic,40,116,Suppressed,Suppressed,Suppressed,2601
+229,2014,Hendricks,Hispanic,26,67,Suppressed,Suppressed,Suppressed,1233
+230,2014,Jackson,Hispanic,32,55,Suppressed,Suppressed,Suppressed,521
+231,2014,Randolph,Hispanic,Suppressed,20,Suppressed,Suppressed,Suppressed,162
+232,2014,Ripley,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,88
+233,2014,Warrick,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,223
+234,2015,Gibson,Hispanic,Suppressed,10,Suppressed,Suppressed,Suppressed,119
+235,2015,Jackson,Hispanic,35,65,Suppressed,Suppressed,Suppressed,476
+236,2015,Perry,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,46
+237,2015,Vigo,Hispanic,Suppressed,21,Suppressed,Suppressed,Suppressed,502
+238,2015,Washington,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,90
+239,2016,Brown,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,51
+240,2016,Daviess,Hispanic,14,42,Suppressed,Suppressed,Suppressed,321
+241,2016,Gibson,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,113
+242,2016,Madison,Hispanic,Suppressed,74,Suppressed,Suppressed,Suppressed,1066
+243,2016,Morgan,Hispanic,Suppressed,16,Suppressed,Suppressed,Suppressed,218
+244,2016,Orange,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,79
+245,2016,Sullivan,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,57
+246,2016,Washington,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,77
+247,2016,White,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,400
+248,2017,Carroll,Hispanic,Suppressed,10,Suppressed,Suppressed,Suppressed,172
+249,2017,Gibson,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,112
+250,2017,Hancock,Hispanic,Suppressed,18,Suppressed,Suppressed,Suppressed,440
+251,2017,Jay,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,119
+252,2017,Morgan,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,234
+253,2017,Ripley,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,113
+254,2017,Tippecanoe,Hispanic,81,266,Suppressed,Suppressed,Suppressed,4016
+255,2017,Warrick,Hispanic,Suppressed,19,Suppressed,Suppressed,Suppressed,247
+256,2018,Bartholomew,Hispanic,52,109,Suppressed,Suppressed,Suppressed,1208
+257,2018,Kosciusko,Hispanic,53,92,Suppressed,Suppressed,Suppressed,1418
+258,2018,Marshall,Hispanic,Suppressed,76,Suppressed,Suppressed,Suppressed,1068
+259,2018,Rush,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,67
+260,2019,Elkhart,Hispanic,310,730,Suppressed,Suppressed,72,7573
+261,2019,Henry,Hispanic,Suppressed,20,Suppressed,Suppressed,Suppressed,162
+262,2019,Jasper,Hispanic,16,46,Suppressed,Suppressed,Suppressed,502
+263,2019,Noble,Hispanic,47,97,Suppressed,Suppressed,Suppressed,1129
+264,2019,Randolph,Hispanic,13,24,Suppressed,Suppressed,Suppressed,190
+265,2019,Spencer,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,139
+266,2014,Elkhart,Non-Hispanic White,817,2207,Suppressed,11,186,28077
+267,2014,Hancock,Non-Hispanic White,140,694,Suppressed,Suppressed,77,12309
+268,2014,Johnson,Non-Hispanic White,438,1633,Suppressed,Suppressed,147,26159
+269,2014,Randolph,Non-Hispanic White,57,272,Suppressed,Suppressed,Suppressed,4083
+270,2014,Rush,Non-Hispanic White,Suppressed,194,Suppressed,Suppressed,13,2803
+271,2014,St. Joseph,Non-Hispanic White,690,2336,Suppressed,16,180,38337
+272,2014,Wells,Non-Hispanic White,95,312,Suppressed,Suppressed,Suppressed,4526
+273,2015,Fulton,Non-Hispanic White,97,240,Suppressed,Suppressed,Suppressed,3184
+274,2015,Harrison,Non-Hispanic White,93,432,Suppressed,Suppressed,Suppressed,6636
+275,2015,Jefferson,Non-Hispanic White,74,333,Suppressed,Suppressed,28,5981
+276,2015,Johnson,Non-Hispanic White,353,1660,Suppressed,Suppressed,152,26448
+277,2015,Lake,Non-Hispanic White,732,2768,Suppressed,Suppressed,217,45316
+278,2015,Lawrence,Non-Hispanic White,Suppressed,478,Suppressed,Suppressed,Suppressed,7321
+279,2015,Scott,Non-Hispanic White,Suppressed,290,Suppressed,Suppressed,Suppressed,4146
+280,2015,Sullivan,Non-Hispanic White,Suppressed,199,Suppressed,Suppressed,15,3257
+281,2015,Tippecanoe,Non-Hispanic White,345,1717,Suppressed,15,140,33597
+282,2016,Delaware,Non-Hispanic White,243,1008,Suppressed,Suppressed,97,22433
+283,2016,Franklin,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,3738
+284,2016,Huntington,Non-Hispanic White,109,400,Suppressed,5,Suppressed,6300
+285,2016,Jasper,Non-Hispanic White,103,345,Suppressed,7,41,5489
+286,2016,Jefferson,Non-Hispanic White,53,354,Suppressed,Suppressed,Suppressed,5877
+287,2016,Knox,Non-Hispanic White,84,419,Suppressed,Suppressed,Suppressed,6114
+288,2016,Perry,Non-Hispanic White,62,192,Suppressed,Suppressed,Suppressed,2826
+289,2016,Pike,Non-Hispanic White,21,Suppressed,Suppressed,Suppressed,Suppressed,1924
+290,2016,Scott,Non-Hispanic White,Suppressed,279,Suppressed,Suppressed,28,4084
+291,2016,Warrick,Non-Hispanic White,95,599,Suppressed,Suppressed,50,10123
+292,2017,Allen,Non-Hispanic White,1227,3501,Suppressed,20,330,52284
+293,2017,De Kalb,Non-Hispanic White,179,487,Suppressed,Suppressed,Suppressed,7310
+294,2017,Franklin,Non-Hispanic White,88,273,Suppressed,Suppressed,Suppressed,3675
+295,2017,Lawrence,Non-Hispanic White,Suppressed,467,Suppressed,Suppressed,50,7291
+296,2017,Parke,Non-Hispanic White,90,199,Suppressed,Suppressed,Suppressed,2967
+297,2017,Washington,Non-Hispanic White,Suppressed,315,Suppressed,Suppressed,Suppressed,4659
+298,2017,Wayne,Non-Hispanic White,266,695,Suppressed,Suppressed,50,10272
+299,2018,Carroll,Non-Hispanic White,54,190,Suppressed,Suppressed,Suppressed,3100
+300,2018,Gibson,Non-Hispanic White,63,402,Suppressed,Suppressed,Suppressed,5451
+301,2018,Grant,Non-Hispanic White,152,639,Suppressed,Suppressed,79,10921
+302,2018,Howard,Non-Hispanic White,224,823,Suppressed,Suppressed,90,12087
+303,2018,Ripley,Non-Hispanic White,118,331,Suppressed,Suppressed,Suppressed,4744
+304,2018,Vanderburgh,Non-Hispanic White,374,1620,Suppressed,9,150,29214
+305,2019,Bartholomew,Non-Hispanic White,145,764,Suppressed,Suppressed,61,11828
+306,2019,Crawford,Non-Hispanic White,30,101,Suppressed,Suppressed,14,1587
+307,2019,Daviess,Non-Hispanic White,208,503,Suppressed,Suppressed,34,5365
+308,2019,Dearborn,Non-Hispanic White,60,254,Suppressed,Suppressed,Suppressed,8177
+309,2019,Fulton,Non-Hispanic White,71,220,Suppressed,Suppressed,Suppressed,3019
+310,2019,Knox,Non-Hispanic White,93,388,Suppressed,Suppressed,Suppressed,5887
+311,2019,Orange,Non-Hispanic White,65,228,Suppressed,Suppressed,Suppressed,3103
+312,2019,Perry,Non-Hispanic White,42,147,Suppressed,Suppressed,21,2750
+313,2019,Tipton,Non-Hispanic White,Suppressed,147,Suppressed,Suppressed,20,2277
+314,2014,Clinton,All,146,461,Suppressed,Suppressed,33,5778
+315,2014,Knox,All,100,484,Suppressed,Suppressed,39,6872
+316,2014,Marshall,All,228,570,Suppressed,Suppressed,47,8354
+317,2014,Spencer,All,42,249,Suppressed,Suppressed,18,3451
+318,2014,Tippecanoe,All,724,2340,Suppressed,21,217,44252
+319,2015,Clay,All,123,346,Suppressed,Suppressed,38,4825
+320,2015,Hamilton,All,579,3902,Suppressed,21,350,62420
+321,2015,Newton,All,57,171,Suppressed,Suppressed,15,2310
+322,2015,Wabash,All,116,338,Suppressed,Suppressed,28,5682
+323,2016,Dubois,All,109,564,Suppressed,6,64,7326
+324,2016,Miami,All,106,343,Suppressed,Suppressed,24,5855
+325,2016,Monroe,All,278,1302,Suppressed,10,107,38997
+326,2016,Pike,All,21,145,Suppressed,Suppressed,20,2015
+327,2016,St. Joseph,All,1178,3573,Suppressed,26,383,54614
+328,2016,Whitley,All,99,405,Suppressed,Suppressed,41,5713
+329,2017,Dearborn,All,117,478,Suppressed,Suppressed,40,8625
+330,2017,De Kalb,All,194,510,Suppressed,Suppressed,43,7800
+331,2017,Montgomery,All,111,452,Suppressed,Suppressed,44,6559
+332,2017,Posey,All,54,255,Suppressed,Suppressed,26,4341
+333,2017,Putnam,All,75,367,Suppressed,Suppressed,37,7003
+334,2017,St. Joseph,All,1235,3495,11,36,368,54872
+335,2017,Sullivan,All,64,216,Suppressed,Suppressed,14,3316
+336,2018,Fulton,All,84,245,Suppressed,Suppressed,20,3392
+337,2018,Greene,All,86,371,Suppressed,Suppressed,49,5273
+338,2018,Posey,All,47,289,Suppressed,Suppressed,24,4265
+339,2019,Fountain,All,48,184,Suppressed,Suppressed,18,2738
+340,2019,Hamilton,All,569,3682,Suppressed,19,322,67618
+341,2019,Howard,All,285,991,Suppressed,7,90,14675
+342,2019,Jackson,All,245,626,Suppressed,Suppressed,84,7998
+343,2019,Perry,All,53,180,Suppressed,Suppressed,28,2899
+344,2019,Posey,All,46,257,Suppressed,Suppressed,37,4254
+345,2014,Gibson,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,103
+346,2014,Miami,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,88
+347,2014,Ripley,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,20
+348,2014,Spencer,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,21
+349,2015,Carroll,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,13
+350,2015,Gibson,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,102
+351,2015,Jefferson,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,202
+352,2015,Perry,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,14
+353,2015,St. Joseph,Non-Hispanic Black,310,687,Suppressed,Suppressed,84,7791
+354,2015,Tipton,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,10
+355,2015,Union,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,11
+356,2016,Delaware,Non-Hispanic Black,35,112,Suppressed,Suppressed,13,1940
+357,2016,Floyd,Non-Hispanic Black,25,74,Suppressed,Suppressed,Suppressed,871
+358,2016,Hamilton,Non-Hispanic Black,50,145,Suppressed,Suppressed,17,2770
+359,2016,Orange,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,35
+360,2016,Posey,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,47
+361,2016,Pulaski,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,14
+362,2016,Sullivan,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,13
+363,2016,Tipton,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,9
+364,2017,Huntington,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,104
+365,2017,Johnson,Non-Hispanic Black,25,54,Suppressed,Suppressed,Suppressed,727
+366,2017,Lagrange,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,29
+367,2017,LaPorte,Non-Hispanic Black,113,188,Suppressed,Suppressed,30,2032
+368,2017,Monroe,Non-Hispanic Black,26,63,Suppressed,Suppressed,Suppressed,1665
+369,2017,Parke,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,239
+370,2017,Warren,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,7
+371,2017,Warrick,Non-Hispanic Black,Suppressed,16,Suppressed,Suppressed,Suppressed,170
+372,2018,Blackford,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,9
+373,2018,Cass,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,79
+374,2018,Fountain,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,17
+375,2018,Knox,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,270
+376,2018,Switzerland,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,10
+377,2018,Tipton,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,11
+378,2018,Vigo,Non-Hispanic Black,40,100,Suppressed,Suppressed,Suppressed,1567
+379,2018,Whitley,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,23
+380,2019,Carroll,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,25
+381,2019,Dubois,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,58
+382,2019,Hamilton,Non-Hispanic Black,60,206,Suppressed,Suppressed,30,3281
+383,2019,Johnson,Non-Hispanic Black,16,75,Suppressed,Suppressed,Suppressed,898
+384,2019,Knox,Non-Hispanic Black,Suppressed,11,Suppressed,Suppressed,Suppressed,244
+385,2019,Union,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,11
+386,2019,Vermillion,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,15
+387,2014,Carroll,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,168
+388,2014,Clay,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,77
+389,2014,Crawford,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,38
+390,2014,Fountain,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,90
+391,2014,Jefferson,Hispanic,Suppressed,11,Suppressed,Suppressed,Suppressed,204
+392,2014,Lawrence,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,169
+393,2014,Madison,Hispanic,Suppressed,73,Suppressed,Suppressed,Suppressed,977
+394,2014,Perry,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,48
+395,2014,Porter,Hispanic,49,152,Suppressed,Suppressed,19,3805
+396,2014,Tippecanoe,Hispanic,109,246,Suppressed,Suppressed,Suppressed,3564
+397,2015,Bartholomew,Hispanic,47,87,Suppressed,Suppressed,Suppressed,1055
+398,2015,Clark,Hispanic,71,135,Suppressed,Suppressed,Suppressed,1263
+399,2015,Fayette,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,39
+400,2015,Whitley,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,179
+401,2016,Floyd,Hispanic,Suppressed,31,Suppressed,Suppressed,Suppressed,553
+402,2016,Hendricks,Hispanic,24,71,Suppressed,Suppressed,Suppressed,1427
+403,2016,Huntington,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,186
+404,2016,Jefferson,Hispanic,Suppressed,21,Suppressed,Suppressed,Suppressed,201
+405,2016,Noble,Hispanic,31,90,Suppressed,Suppressed,Suppressed,1107
+406,2016,Putnam,Hispanic,Suppressed,10,Suppressed,Suppressed,Suppressed,144
+407,2016,Warren,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,29
+408,2017,Blackford,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,43
+409,2017,Jennings,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,135
+410,2017,Madison,Hispanic,Suppressed,83,Suppressed,Suppressed,Suppressed,1086
+411,2017,Perry,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,61
+412,2017,Wayne,Hispanic,Suppressed,28,Suppressed,Suppressed,Suppressed,396
+413,2018,Adams,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,330
+414,2018,Hancock,Hispanic,Suppressed,16,Suppressed,Suppressed,Suppressed,454
+415,2018,Newton,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,187
+416,2018,Vermillion,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,49
+417,2019,De Kalb,Hispanic,Suppressed,13,Suppressed,Suppressed,Suppressed,312
+418,2019,Fayette,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,87
+419,2019,Gibson,Hispanic,Suppressed,11,Suppressed,Suppressed,Suppressed,115
+420,2019,Greene,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,123
+421,2019,Hancock,Hispanic,Suppressed,28,Suppressed,Suppressed,Suppressed,494
+422,2019,Marshall,Hispanic,37,92,Suppressed,Suppressed,13,1102
+423,2019,Newton,Hispanic,Suppressed,24,Suppressed,Suppressed,Suppressed,198
+424,2019,Parke,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,70
+425,2019,Ripley,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,104
+426,2019,Warrick,Hispanic,Suppressed,10,Suppressed,Suppressed,Suppressed,283
+427,2019,Whitley,Hispanic,Suppressed,12,Suppressed,Suppressed,Suppressed,182
+428,2014,Cass,Non-Hispanic White,100,367,Suppressed,Suppressed,42,5350
+429,2014,De Kalb,Non-Hispanic White,193,543,Suppressed,Suppressed,Suppressed,7378
+430,2014,Gibson,Non-Hispanic White,78,415,Suppressed,Suppressed,Suppressed,5689
+431,2014,Greene,Non-Hispanic White,Suppressed,338,Suppressed,Suppressed,Suppressed,5340
+432,2014,Ohio,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,935
+433,2014,Tippecanoe,Non-Hispanic White,446,1692,Suppressed,16,162,33517
+434,2014,Washington,Non-Hispanic White,Suppressed,304,Suppressed,Suppressed,27,4802
+435,2014,Whitley,Non-Hispanic White,Suppressed,401,Suppressed,Suppressed,Suppressed,5491
+436,2015,Clinton,Non-Hispanic White,89,342,Suppressed,Suppressed,36,4600
+437,2015,Daviess,Non-Hispanic White,169,467,Suppressed,Suppressed,36,5357
+438,2015,Fayette,Non-Hispanic White,Suppressed,241,Suppressed,6,Suppressed,3888
+439,2015,Jackson,Non-Hispanic White,94,486,Suppressed,Suppressed,42,7184
+440,2015,Jay,Non-Hispanic White,113,291,Suppressed,Suppressed,Suppressed,3550
+441,2015,Madison,Non-Hispanic White,294,1277,Suppressed,Suppressed,132,19894
+442,2015,Posey,Non-Hispanic White,53,272,Suppressed,Suppressed,Suppressed,4183
+443,2015,Tipton,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,2370
+444,2016,Daviess,Non-Hispanic White,181,475,Suppressed,Suppressed,56,5337
+445,2016,Elkhart,Non-Hispanic White,764,2215,Suppressed,17,204,27971
+446,2016,Fulton,Non-Hispanic White,96,220,Suppressed,Suppressed,Suppressed,3098
+447,2016,Johnson,Non-Hispanic White,343,1653,Suppressed,Suppressed,144,26474
+448,2016,Miami,Non-Hispanic White,95,319,Suppressed,Suppressed,24,5343
+449,2016,Ripley,Non-Hispanic White,70,336,Suppressed,Suppressed,Suppressed,4809
+450,2016,Switzerland,Non-Hispanic White,45,Suppressed,Suppressed,Suppressed,11,1673
+451,2016,Washington,Non-Hispanic White,Suppressed,317,Suppressed,Suppressed,Suppressed,4717
+452,2017,Benton,Non-Hispanic White,28,100,Suppressed,Suppressed,Suppressed,1326
+453,2017,Blackford,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,16,1834
+454,2017,Crawford,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,11,1650
+455,2017,Elkhart,Non-Hispanic White,735,2093,Suppressed,16,188,27754
+456,2017,Greene,Non-Hispanic White,Suppressed,344,Suppressed,Suppressed,40,5096
+457,2017,Marion,Non-Hispanic White,1676,6511,Suppressed,31,637,108427
+458,2017,Martin,Non-Hispanic White,25,Suppressed,Suppressed,Suppressed,17,1567
+459,2017,Owen,Non-Hispanic White,44,200,Suppressed,Suppressed,14,3252
+460,2017,Steuben,Non-Hispanic White,109,327,Suppressed,Suppressed,36,5199
+461,2017,Warren,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,1245
+462,2018,Decatur,Non-Hispanic White,Suppressed,319,Suppressed,Suppressed,Suppressed,4605
+463,2018,Madison,Non-Hispanic White,281,1166,Suppressed,Suppressed,121,19386
+464,2018,Marshall,Non-Hispanic White,169,451,Suppressed,Suppressed,48,6669
+465,2018,Owen,Non-Hispanic White,Suppressed,235,Suppressed,Suppressed,26,3246
+466,2018,Vigo,Non-Hispanic White,255,992,Suppressed,Suppressed,125,17962
+467,2018,Warren,Non-Hispanic White,Suppressed,68,Suppressed,Suppressed,Suppressed,1270
+468,2019,Cass,Non-Hispanic White,75,296,Suppressed,Suppressed,25,4808
+469,2019,Clinton,Non-Hispanic White,75,338,Suppressed,Suppressed,35,4521
+470,2019,Delaware,Non-Hispanic White,176,878,Suppressed,Suppressed,92,21901
+471,2019,Fayette,Non-Hispanic White,76,171,Suppressed,Suppressed,17,3798
+472,2019,Grant,Non-Hispanic White,171,607,Suppressed,Suppressed,48,10896
+473,2019,Greene,Non-Hispanic White,Suppressed,313,Suppressed,Suppressed,34,5002
+474,2019,Lake,Non-Hispanic White,706,2397,Suppressed,15,171,43314
+475,2019,Ripley,Non-Hispanic White,66,328,Suppressed,Suppressed,Suppressed,4701
+476,2019,Wabash,Non-Hispanic White,88,303,Suppressed,Suppressed,Suppressed,5095
+477,2019,Whitley,Non-Hispanic White,107,353,Suppressed,Suppressed,27,5488
+478,2014,Crawford,All,39,135,Suppressed,Suppressed,20,1803
+479,2014,Grant,All,205,747,Suppressed,11,71,13669
+480,2014,Henry,All,120,483,Suppressed,6,49,7989
+481,2015,Adams,All,373,662,Suppressed,Suppressed,52,6089
+482,2015,Clark,All,424,1487,Suppressed,15,137,22559
+483,2015,Fayette,All,59,248,Suppressed,6,35,4035
+484,2015,Floyd,All,191,909,Suppressed,Suppressed,83,14771
+485,2015,Jay,All,124,306,Suppressed,Suppressed,31,3733
+486,2015,Pulaski,All,46,135,Suppressed,Suppressed,12,2114
+487,2015,Whitley,All,117,398,Suppressed,Suppressed,36,5781
+488,2016,Boone,All,121,827,Suppressed,6,73,12118
+489,2016,Decatur,All,100,382,Suppressed,Suppressed,26,4842
+490,2016,Lake,All,1703,5649,5,49,604,93532
+491,2016,LaPorte,All,593,1310,Suppressed,12,128,18515
+492,2016,Martin,All,28,120,Suppressed,Suppressed,19,1674
+493,2016,Orange,All,77,236,Suppressed,Suppressed,21,3312
+494,2016,Ripley,All,75,348,Suppressed,Suppressed,28,5102
+495,2016,Union,All,28,70,Suppressed,Suppressed,Suppressed,1216
+496,2017,Brown,All,37,120,Suppressed,Suppressed,Suppressed,2208
+497,2017,Clark,All,414,1478,6,13,141,22525
+498,2017,Clay,All,99,317,Suppressed,Suppressed,27,4652
+499,2017,Decatur,All,87,321,Suppressed,Suppressed,24,4784
+500,2017,Franklin,All,93,281,Suppressed,Suppressed,23,3826
+501,2017,Jackson,All,204,593,Suppressed,Suppressed,54,7922
+502,2017,Jay,All,102,288,Suppressed,Suppressed,19,3580
+503,2017,Johnson,All,415,1821,Suppressed,12,162,30472
+504,2017,Lagrange,All,423,753,Suppressed,6,58,7185
+505,2017,Lawrence,All,136,481,Suppressed,Suppressed,50,7706
+506,2017,Madison,All,309,1401,Suppressed,11,164,23223
+507,2017,Miami,All,110,394,Suppressed,Suppressed,35,5712
+508,2017,Switzerland,All,46,113,Suppressed,Suppressed,10,1752
+509,2018,Allen,All,2352,5245,Suppressed,34,496,74906
+510,2018,Daviess,All,226,574,Suppressed,5,50,5873
+511,2018,Lawrence,All,145,527,Suppressed,Suppressed,53,7705
+512,2018,Ripley,All,132,389,Suppressed,Suppressed,35,5043
+513,2018,Tipton,All,26,149,Suppressed,Suppressed,15,2448
+514,2019,Benton,All,34,109,Suppressed,Suppressed,12,1495
+515,2019,Fayette,All,101,245,Suppressed,Suppressed,22,3998
+516,2019,Franklin,All,53,237,Suppressed,Suppressed,34,3805
+517,2019,Huntington,All,88,389,Suppressed,Suppressed,46,6665
+518,2019,LaPorte,All,499,1175,Suppressed,11,122,18181
+519,2019,Miami,All,130,407,Suppressed,Suppressed,43,5582
+520,2019,Montgomery,All,100,451,Suppressed,Suppressed,49,6380
+521,2019,Ripley,All,85,382,Suppressed,Suppressed,25,4955
+522,2019,Rush,All,38,201,Suppressed,Suppressed,18,2896
+523,2019,Switzerland,All,42,110,Suppressed,Suppressed,Suppressed,1784
+524,2019,Wells,All,120,335,Suppressed,Suppressed,30,4865
+525,2014,Carroll,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,15
+526,2014,Decatur,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,22
+527,2014,Hendricks,Non-Hispanic Black,32,82,Suppressed,Suppressed,12,1855
+528,2014,Jennings,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,30
+529,2014,Kosciusko,Non-Hispanic Black,Suppressed,13,Suppressed,Suppressed,Suppressed,141
+530,2014,Lake,Non-Hispanic Black,689,1812,Suppressed,24,215,25784
+531,2014,LaPorte,Non-Hispanic Black,126,192,Suppressed,Suppressed,28,2050
+532,2014,Porter,Non-Hispanic Black,27,72,Suppressed,Suppressed,Suppressed,1484
+533,2014,Sullivan,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,16
+534,2014,Vanderburgh,Non-Hispanic Black,127,286,Suppressed,Suppressed,59,3620
+535,2014,Wabash,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,76
+536,2014,Warrick,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,151
+537,2015,Fulton,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,21
+538,2015,Miami,Non-Hispanic Black,Suppressed,11,Suppressed,Suppressed,Suppressed,104
+539,2015,Newton,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,14
+540,2015,Sullivan,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,15
+541,2015,Warren,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,6
+542,2015,Warrick,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,162
+543,2015,White,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,16
+544,2016,Cass,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,82
+545,2016,Elkhart,Non-Hispanic Black,110,239,Suppressed,6,Suppressed,2435
+546,2016,Fayette,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,42
+547,2016,Grant,Non-Hispanic Black,26,78,Suppressed,Suppressed,10,890
+548,2016,Jefferson,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,190
+549,2016,Madison,Non-Hispanic Black,49,137,Suppressed,Suppressed,23,1946
+550,2016,Montgomery,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,47
+551,2016,St. Joseph,Non-Hispanic Black,344,736,Suppressed,14,101,7744
+552,2016,Vigo,Non-Hispanic Black,34,93,Suppressed,Suppressed,Suppressed,1539
+553,2017,Clark,Non-Hispanic Black,53,124,Suppressed,Suppressed,Suppressed,1880
+554,2017,De Kalb,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,28
+555,2017,Harrison,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,29
+556,2017,Pike,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,10
+557,2018,Franklin,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,17
+558,2018,Fulton,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,18
+559,2018,Hendricks,Non-Hispanic Black,65,155,Suppressed,Suppressed,16,2468
+560,2018,Jackson,Non-Hispanic Black,Suppressed,13,Suppressed,Suppressed,Suppressed,75
+561,2018,Miami,Non-Hispanic Black,Suppressed,17,Suppressed,Suppressed,Suppressed,107
+562,2018,Montgomery,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,45
+563,2018,Newton,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,11
+564,2018,Randolph,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,30
+565,2018,Sullivan,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,16
+566,2018,White,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,17
+567,2019,Bartholomew,Non-Hispanic Black,Suppressed,41,Suppressed,Suppressed,Suppressed,334
+568,2019,Blackford,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,9
+569,2019,Cass,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,91
+570,2019,Clinton,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,30
+571,2019,Crawford,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,5
+572,2019,Franklin,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,16
+573,2019,Jennings,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,33
+574,2019,LaPorte,Non-Hispanic Black,125,195,Suppressed,5,27,2053
+575,2019,Monroe,Non-Hispanic Black,19,62,Suppressed,Suppressed,Suppressed,1695
+576,2019,Steuben,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,47
+577,2014,Adams,Hispanic,Suppressed,23,Suppressed,Suppressed,Suppressed,314
+578,2014,Henry,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,129
+579,2014,Jasper,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,447
+580,2014,Noble,Hispanic,Suppressed,86,Suppressed,Suppressed,Suppressed,1068
+581,2014,Orange,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,55
+582,2014,Owen,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,66
+583,2014,Pulaski,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,94
+584,2014,Starke,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,173
+585,2014,Wayne,Hispanic,13,24,Suppressed,Suppressed,Suppressed,369
+586,2015,De Kalb,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,275
+587,2015,Greene,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,100
+588,2015,Jennings,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,138
+589,2015,Madison,Hispanic,Suppressed,74,Suppressed,Suppressed,Suppressed,1020
+590,2015,Martin,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,23
+591,2015,Noble,Hispanic,Suppressed,93,Suppressed,Suppressed,Suppressed,1090
+592,2015,Pike,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,41
+593,2015,Warren,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,27
+594,2016,Bartholomew,Hispanic,41,95,Suppressed,Suppressed,Suppressed,1086
+595,2016,De Kalb,Hispanic,Suppressed,14,Suppressed,Suppressed,Suppressed,275
+596,2016,Delaware,Hispanic,Suppressed,17,Suppressed,Suppressed,Suppressed,730
+597,2016,Greene,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,91
+598,2016,Howard,Hispanic,Suppressed,26,Suppressed,Suppressed,Suppressed,574
+599,2016,Jasper,Hispanic,Suppressed,45,Suppressed,Suppressed,Suppressed,506
+600,2016,Parke,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,58
+601,2016,Porter,Hispanic,45,142,Suppressed,Suppressed,Suppressed,3982
+602,2016,Starke,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,171
+603,2017,Franklin,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,39
+604,2017,Grant,Hispanic,Suppressed,34,Suppressed,Suppressed,Suppressed,619
+605,2017,Greene,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,102
+606,2017,Orange,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,80
+607,2017,Posey,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,56
+608,2017,Randolph,Hispanic,10,19,Suppressed,Suppressed,Suppressed,169
+609,2017,Wabash,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,187
+610,2018,Daviess,Hispanic,Suppressed,42,Suppressed,Suppressed,Suppressed,337
+611,2018,Morgan,Hispanic,Suppressed,17,Suppressed,Suppressed,Suppressed,233
+612,2018,Putnam,Hispanic,Suppressed,11,Suppressed,Suppressed,Suppressed,170
+613,2018,Ripley,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,114
+614,2018,Wells,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,188
+615,2018,White,Hispanic,13,Suppressed,Suppressed,Suppressed,Suppressed,433
+616,2018,Whitley,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,177
+617,2019,Blackford,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,54
+618,2019,Dearborn,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,133
+619,2019,Jackson,Hispanic,99,126,Suppressed,Suppressed,14,647
+620,2019,Scott,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,109
+621,2019,Wabash,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,180
+622,2019,Warren,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,51
+623,2019,White,Hispanic,Suppressed,54,Suppressed,Suppressed,Suppressed,455
+624,2014,Fountain,Non-Hispanic White,58,170,Suppressed,Suppressed,12,2652
+625,2014,Franklin,Non-Hispanic White,Suppressed,245,Suppressed,Suppressed,22,3837
+626,2014,Harrison,Non-Hispanic White,Suppressed,437,Suppressed,Suppressed,Suppressed,6667
+627,2014,Monroe,Non-Hispanic White,192,1088,Suppressed,Suppressed,107,31346
+628,2014,Noble,Non-Hispanic White,203,537,Suppressed,Suppressed,47,7409
+629,2014,Orange,Non-Hispanic White,Suppressed,208,Suppressed,Suppressed,Suppressed,3280
+630,2014,Warren,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,1302
+631,2015,Allen,Non-Hispanic White,1470,3685,Suppressed,23,325,52664
+632,2015,Dearborn,Non-Hispanic White,115,516,Suppressed,Suppressed,54,8318
+633,2015,Grant,Non-Hispanic White,164,634,Suppressed,6,71,11507
+634,2015,Greene,Non-Hispanic White,Suppressed,328,Suppressed,Suppressed,Suppressed,5256
+635,2015,Jasper,Non-Hispanic White,101,349,Suppressed,Suppressed,36,5491
+636,2015,Kosciusko,Non-Hispanic White,524,902,Suppressed,Suppressed,66,12667
+637,2015,Martin,Non-Hispanic White,28,Suppressed,Suppressed,Suppressed,16,1640
+638,2015,Montgomery,Non-Hispanic White,121,420,Suppressed,Suppressed,40,6004
+639,2015,Porter,Non-Hispanic White,381,1419,Suppressed,Suppressed,98,25695
+640,2015,Switzerland,Non-Hispanic White,Suppressed,121,Suppressed,Suppressed,Suppressed,1672
+641,2015,Warrick,Non-Hispanic White,97,636,Suppressed,Suppressed,Suppressed,10118
+642,2016,Cass,Non-Hispanic White,101,333,Suppressed,Suppressed,43,5082
+643,2016,Floyd,Non-Hispanic White,194,783,Suppressed,Suppressed,94,12683
+644,2016,Hancock,Non-Hispanic White,110,744,Suppressed,Suppressed,76,12525
+645,2016,Lake,Non-Hispanic White,681,2644,Suppressed,18,245,44668
+646,2016,Marion,Non-Hispanic White,1677,6634,Suppressed,37,721,109494
+647,2016,Marshall,Non-Hispanic White,195,507,Suppressed,Suppressed,36,6922
+648,2016,Pulaski,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,20,1907
+649,2016,St. Joseph,Non-Hispanic White,647,2369,Suppressed,Suppressed,220,37796
+650,2016,Union,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,1161
+651,2016,Vigo,Non-Hispanic White,387,1142,Suppressed,Suppressed,117,18243
+652,2017,Decatur,Non-Hispanic White,82,306,Suppressed,Suppressed,24,4552
+653,2017,Fayette,Non-Hispanic White,Suppressed,271,Suppressed,Suppressed,Suppressed,3839
+654,2017,Floyd,Non-Hispanic White,178,742,Suppressed,Suppressed,85,12625
+655,2017,Hancock,Non-Hispanic White,133,788,Suppressed,Suppressed,Suppressed,12631
+656,2017,Henry,Non-Hispanic White,Suppressed,433,Suppressed,Suppressed,Suppressed,7389
+657,2017,Howard,Non-Hispanic White,226,794,Suppressed,Suppressed,68,12164
+658,2017,Jennings,Non-Hispanic White,97,333,Suppressed,Suppressed,28,4642
+659,2017,Shelby,Non-Hispanic White,81,458,Suppressed,7,Suppressed,7112
+660,2017,Tippecanoe,Non-Hispanic White,268,1514,Suppressed,10,153,33210
+661,2017,Vanderburgh,Non-Hispanic White,350,1718,Suppressed,9,174,29609
+662,2017,Warrick,Non-Hispanic White,88,587,Suppressed,5,67,10166
+663,2018,Clark,Non-Hispanic White,281,864,Suppressed,Suppressed,63,18165
+664,2018,Dearborn,Non-Hispanic White,69,287,Suppressed,Suppressed,15,8185
+665,2018,Hamilton,Non-Hispanic White,396,3099,Suppressed,9,266,53244
+666,2018,Hancock,Non-Hispanic White,96,723,Suppressed,5,58,12774
+667,2018,Harrison,Non-Hispanic White,74,342,Suppressed,Suppressed,26,6610
+668,2018,Henry,Non-Hispanic White,75,474,Suppressed,Suppressed,Suppressed,7359
+669,2018,Huntington,Non-Hispanic White,104,401,Suppressed,Suppressed,Suppressed,6187
+670,2018,Orange,Non-Hispanic White,89,249,Suppressed,Suppressed,Suppressed,3087
+671,2019,Jasper,Non-Hispanic White,84,307,Suppressed,Suppressed,24,5438
+672,2019,LaPorte,Non-Hispanic White,305,832,Suppressed,6,83,13860
+673,2019,Spencer,Non-Hispanic White,27,175,Suppressed,Suppressed,Suppressed,3089
+674,2019,Starke,Non-Hispanic White,Suppressed,252,Suppressed,Suppressed,21,3681
+675,2019,Sullivan,Non-Hispanic White,54,Suppressed,Suppressed,Suppressed,Suppressed,3095
+676,2019,Washington,Non-Hispanic White,91,301,Suppressed,Suppressed,17,4727
+677,2019,Wells,Non-Hispanic White,98,302,Suppressed,Suppressed,24,4544
+678,2014,Allen,All,2366,5229,7,48,530,73193
+679,2014,Benton,All,43,109,Suppressed,Suppressed,Suppressed,1514
+680,2014,Elkhart,All,1295,3109,Suppressed,17,270,38743
+681,2014,Fayette,All,61,249,Suppressed,Suppressed,29,4036
+682,2014,Fulton,All,120,279,Suppressed,Suppressed,31,3530
+683,2014,Howard,All,259,1003,Suppressed,9,80,14899
+684,2014,Madison,All,336,1432,Suppressed,11,139,23633
+685,2014,Marion,All,5324,14573,21,123,1608,205331
+686,2014,Martin,All,29,133,Suppressed,Suppressed,Suppressed,1724
+687,2014,Pike,All,35,126,Suppressed,Suppressed,17,2053
+688,2014,Union,All,21,82,Suppressed,Suppressed,Suppressed,1295
+689,2014,Warren,All,29,93,Suppressed,Suppressed,Suppressed,1363
+690,2015,Bartholomew,All,357,1096,Suppressed,15,92,15084
+691,2015,Benton,All,32,107,Suppressed,Suppressed,Suppressed,1505
+692,2015,Johnson,All,434,1883,Suppressed,16,174,29615
+693,2015,Randolph,All,71,301,Suppressed,Suppressed,44,4318
+694,2015,Wells,All,102,339,Suppressed,Suppressed,26,4721
+695,2016,Bartholomew,All,322,1086,Suppressed,6,95,15141
+696,2016,Blackford,All,31,133,Suppressed,Suppressed,16,1959
+697,2016,De Kalb,All,164,535,Suppressed,Suppressed,31,7746
+698,2016,Greene,All,80,326,Suppressed,Suppressed,36,5391
+699,2016,Henry,All,115,471,Suppressed,Suppressed,42,7826
+700,2017,Floyd,All,239,883,Suppressed,Suppressed,107,14641
+701,2017,Greene,All,80,349,Suppressed,Suppressed,40,5306
+702,2017,Jasper,All,110,374,Suppressed,Suppressed,17,6075
+703,2017,Marshall,All,218,606,Suppressed,Suppressed,48,8093
+704,2017,Pike,All,22,132,Suppressed,Suppressed,13,1997
+705,2017,Rush,All,43,189,Suppressed,Suppressed,17,2889
+706,2018,Brown,All,36,140,Suppressed,Suppressed,11,2251
+707,2018,Clark,All,455,1380,Suppressed,Suppressed,139,22503
+708,2018,De Kalb,All,221,552,Suppressed,Suppressed,47,7876
+709,2018,Howard,All,289,1003,Suppressed,5,120,14681
+710,2018,Jasper,All,104,352,Suppressed,Suppressed,34,6020
+711,2018,Miami,All,97,367,Suppressed,Suppressed,39,5654
+712,2018,Porter,All,477,1707,Suppressed,8,171,32259
+713,2018,Vermillion,All,50,178,Suppressed,Suppressed,27,2604
+714,2018,Vigo,All,309,1138,Suppressed,Suppressed,146,21222
+715,2018,Unknown,All,21,47,Suppressed,Suppressed,10,0
+716,2019,Bartholomew,All,207,1036,Suppressed,11,89,15530
+717,2019,Boone,All,157,850,Suppressed,Suppressed,74,12818
+718,2019,Gibson,All,53,382,Suppressed,Suppressed,39,5895
+719,2019,Harrison,All,95,408,Suppressed,Suppressed,39,7046
+720,2019,Jennings,All,79,314,Suppressed,Suppressed,33,4832
+721,2019,Knox,All,102,416,Suppressed,Suppressed,54,6515
+722,2019,Marshall,All,177,518,Suppressed,5,61,7987
+723,2019,Monroe,All,199,1084,Suppressed,7,120,39430
+724,2019,Vigo,All,297,1188,Suppressed,13,163,21309
+725,2019,Whitley,All,120,377,Suppressed,Suppressed,35,5804
+726,2019,Unknown,All,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,0
+727,2014,Daviess,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,44
+728,2014,Franklin,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,18
+729,2014,Greene,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,9
+730,2014,Madison,Non-Hispanic Black,39,120,Suppressed,Suppressed,18,1962
+731,2014,Pulaski,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,14
+732,2014,Vigo,Non-Hispanic Black,38,85,Suppressed,Suppressed,Suppressed,1610
+733,2015,Fountain,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,10
+734,2015,Huntington,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,80
+735,2015,Jay,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,10
+736,2015,Morgan,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,58
+737,2015,Noble,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,46
+738,2015,Pike,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,9
+739,2015,Shelby,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,91
+740,2016,Hancock,Non-Hispanic Black,Suppressed,28,Suppressed,Suppressed,Suppressed,382
+741,2016,Jackson,Non-Hispanic Black,Suppressed,10,Suppressed,Suppressed,Suppressed,69
+742,2016,Kosciusko,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,150
+743,2016,Noble,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,45
+744,2016,Putnam,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,132
+745,2017,Benton,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,10
+746,2017,Carroll,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,17
+747,2017,Delaware,Non-Hispanic Black,29,116,Suppressed,Suppressed,25,1899
+748,2017,Greene,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,10
+749,2017,Howard,Non-Hispanic Black,38,121,Suppressed,Suppressed,18,1265
+750,2017,Jasper,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,59
+751,2017,Marion,Non-Hispanic Black,2247,4702,Suppressed,55,657,62224
+752,2017,Marshall,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,48
+753,2017,Pulaski,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,15
+754,2017,Randolph,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,32
+755,2017,Ripley,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,23
+756,2017,Rush,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,22
+757,2017,Tipton,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,10
+758,2017,Wabash,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,78
+759,2018,Boone,Non-Hispanic Black,Suppressed,14,Suppressed,Suppressed,Suppressed,293
+760,2018,Crawford,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,7
+761,2018,Delaware,Non-Hispanic Black,33,123,Suppressed,Suppressed,23,1895
+762,2018,Hancock,Non-Hispanic Black,10,34,Suppressed,Suppressed,Suppressed,432
+763,2018,Henry,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,73
+764,2018,Jasper,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,58
+765,2018,Noble,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,43
+766,2018,Orange,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,47
+767,2018,Vanderburgh,Non-Hispanic Black,110,321,Suppressed,Suppressed,47,3670
+768,2018,Warren,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,8
+769,2019,Fountain,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,10
+770,2019,Gibson,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,164
+771,2019,Grant,Non-Hispanic Black,33,81,Suppressed,Suppressed,Suppressed,820
+772,2019,Lake,Non-Hispanic Black,676,1540,Suppressed,10,203,24098
+773,2019,Newton,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,15
+774,2019,Warren,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,7
+775,2014,Bartholomew,Hispanic,54,99,Suppressed,Suppressed,11,1069
+776,2014,Kosciusko,Hispanic,70,101,Suppressed,Suppressed,Suppressed,1363
+777,2014,Martin,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,25
+778,2014,Morgan,Hispanic,Suppressed,13,Suppressed,Suppressed,Suppressed,202
+779,2014,Ohio,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,21
+780,2015,Boone,Hispanic,Suppressed,22,Suppressed,Suppressed,Suppressed,386
+781,2015,Decatur,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,91
+782,2015,Fulton,Hispanic,Suppressed,14,Suppressed,Suppressed,Suppressed,236
+783,2015,Hendricks,Hispanic,21,61,Suppressed,Suppressed,Suppressed,1390
+784,2015,Lagrange,Hispanic,Suppressed,17,Suppressed,Suppressed,Suppressed,340
+785,2015,Miami,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,158
+786,2015,Montgomery,Hispanic,26,41,Suppressed,Suppressed,Suppressed,349
+787,2015,Morgan,Hispanic,Suppressed,11,Suppressed,Suppressed,Suppressed,215
+788,2015,Porter,Hispanic,49,163,Suppressed,Suppressed,Suppressed,3965
+789,2015,Tipton,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,93
+790,2015,White,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,410
+791,2016,Adams,Hispanic,Suppressed,27,Suppressed,Suppressed,Suppressed,309
+792,2016,Blackford,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,46
+793,2016,Elkhart,Hispanic,269,625,Suppressed,Suppressed,61,6913
+794,2016,Jay,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,117
+795,2016,Marion,Hispanic,995,2120,Suppressed,Suppressed,230,21687
+796,2016,Marshall,Hispanic,32,69,Suppressed,Suppressed,Suppressed,1002
+797,2016,Ohio,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,19
+798,2016,Union,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,21
+799,2016,Wells,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,167
+800,2017,Adams,Hispanic,Suppressed,17,Suppressed,Suppressed,Suppressed,313
+801,2017,Allen,Hispanic,234,487,Suppressed,Suppressed,41,6458
+802,2017,Benton,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,91
+803,2017,Decatur,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,101
+804,2017,Floyd,Hispanic,17,36,Suppressed,Suppressed,Suppressed,570
+805,2017,Fountain,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,89
+806,2017,Marion,Hispanic,1258,2190,Suppressed,14,231,23012
+807,2017,Parke,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,58
+808,2017,Steuben,Hispanic,Suppressed,10,Suppressed,Suppressed,Suppressed,304
+809,2017,Warren,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,42
+810,2018,Carroll,Hispanic,Suppressed,20,Suppressed,Suppressed,Suppressed,181
+811,2018,Clay,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,79
+812,2018,Jackson,Hispanic,76,116,Suppressed,Suppressed,14,599
+813,2018,Jefferson,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,248
+814,2018,Johnson,Hispanic,29,69,Suppressed,Suppressed,Suppressed,1319
+815,2018,Owen,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,67
+816,2018,Steuben,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,295
+817,2019,Hendricks,Hispanic,22,85,Suppressed,Suppressed,Suppressed,1799
+818,2019,Miami,Hispanic,Suppressed,14,Suppressed,Suppressed,Suppressed,231
+819,2019,Owen,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,66
+820,2019,Posey,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,59
+821,2019,Pulaski,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,98
+822,2019,Wayne,Hispanic,23,37,Suppressed,Suppressed,Suppressed,464
+823,2014,Adams,Non-Hispanic White,386,644,Suppressed,Suppressed,Suppressed,5622
+824,2014,Knox,Non-Hispanic White,91,457,Suppressed,Suppressed,Suppressed,6171
+825,2014,Marshall,Non-Hispanic White,193,488,Suppressed,Suppressed,42,7130
+826,2014,Perry,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,13,2861
+827,2014,Porter,Non-Hispanic White,356,1570,Suppressed,Suppressed,133,26061
+828,2014,Starke,Non-Hispanic White,Suppressed,248,Suppressed,Suppressed,Suppressed,3807
+829,2014,Vanderburgh,Non-Hispanic White,530,1827,Suppressed,15,182,30352
+830,2015,Blackford,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,1919
+831,2015,Carroll,Non-Hispanic White,58,186,Suppressed,Suppressed,Suppressed,3189
+832,2015,Henry,Non-Hispanic White,102,454,Suppressed,Suppressed,Suppressed,7538
+833,2015,LaPorte,Non-Hispanic White,451,1011,Suppressed,Suppressed,99,14606
+834,2015,Miami,Non-Hispanic White,86,350,Suppressed,Suppressed,32,5392
+835,2015,Newton,Non-Hispanic White,Suppressed,160,Suppressed,Suppressed,15,2064
+836,2015,Noble,Non-Hispanic White,187,553,Suppressed,Suppressed,47,7368
+837,2015,Starke,Non-Hispanic White,Suppressed,255,Suppressed,Suppressed,18,3764
+838,2016,Benton,Non-Hispanic White,Suppressed,105,Suppressed,Suppressed,Suppressed,1334
+839,2016,Brown,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,2102
+840,2016,De Kalb,Non-Hispanic White,155,515,Suppressed,Suppressed,31,7290
+841,2016,Gibson,Non-Hispanic White,73,403,Suppressed,Suppressed,Suppressed,5514
+842,2016,Grant,Non-Hispanic White,113,559,Suppressed,5,54,11203
+843,2016,Greene,Non-Hispanic White,Suppressed,320,Suppressed,Suppressed,36,5189
+844,2016,Harrison,Non-Hispanic White,Suppressed,457,Suppressed,6,Suppressed,6559
+845,2016,Jay,Non-Hispanic White,111,276,Suppressed,7,37,3466
+846,2016,LaPorte,Non-Hispanic White,396,967,Suppressed,Suppressed,83,14394
+847,2016,Porter,Non-Hispanic White,423,1490,Suppressed,Suppressed,145,25438
+848,2017,Dubois,Non-Hispanic White,78,494,Suppressed,Suppressed,59,6474
+849,2017,Hamilton,Non-Hispanic White,429,3223,Suppressed,Suppressed,278,52608
+850,2017,Orange,Non-Hispanic White,Suppressed,242,Suppressed,Suppressed,Suppressed,3080
+851,2017,Pulaski,Non-Hispanic White,Suppressed,122,Suppressed,Suppressed,14,1893
+852,2017,Randolph,Non-Hispanic White,62,266,Suppressed,Suppressed,Suppressed,3940
+853,2017,Scott,Non-Hispanic White,88,266,Suppressed,Suppressed,Suppressed,4086
+854,2017,Starke,Non-Hispanic White,100,250,Suppressed,Suppressed,Suppressed,3669
+855,2017,Switzerland,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,10,1661
+856,2017,Wells,Non-Hispanic White,69,310,Suppressed,Suppressed,Suppressed,4433
+857,2018,Adams,Non-Hispanic White,326,560,Suppressed,5,48,5702
+858,2018,Boone,Non-Hispanic White,80,700,Suppressed,5,60,11134
+859,2018,Kosciusko,Non-Hispanic White,412,897,Suppressed,Suppressed,75,12483
+860,2018,Monroe,Non-Hispanic White,186,1022,Suppressed,Suppressed,117,30950
+861,2018,Newton,Non-Hispanic White,44,139,Suppressed,Suppressed,Suppressed,2015
+862,2019,Carroll,Non-Hispanic White,41,202,Suppressed,Suppressed,Suppressed,3126
+863,2019,Monroe,Non-Hispanic White,150,886,Suppressed,Suppressed,99,31047
+864,2019,Putnam,Non-Hispanic White,77,353,Suppressed,Suppressed,Suppressed,6272
+865,2019,Switzerland,Non-Hispanic White,34,94,Suppressed,Suppressed,Suppressed,1699
+866,2019,Vermillion,Non-Hispanic White,Suppressed,130,Suppressed,Suppressed,Suppressed,2483
+867,2014,Adams,All,399,675,Suppressed,Suppressed,44,6019
+868,2014,De Kalb,All,203,562,Suppressed,Suppressed,46,7809
+869,2014,Dubois,All,110,573,Suppressed,5,61,7419
+870,2014,Newton,All,47,132,Suppressed,Suppressed,11,2322
+871,2014,Vermillion,All,54,150,Suppressed,Suppressed,22,2704
+872,2014,Vigo,All,447,1315,Suppressed,14,138,21875
+873,2014,Whitley,All,135,412,Suppressed,Suppressed,36,5801
+874,2015,Decatur,All,89,352,Suppressed,Suppressed,36,4855
+875,2015,Fountain,All,58,200,Suppressed,Suppressed,23,2783
+876,2015,Howard,All,286,978,Suppressed,7,87,14862
+877,2015,Lawrence,All,103,497,Suppressed,Suppressed,45,7757
+878,2015,St. Joseph,All,1175,3480,Suppressed,26,322,54639
+879,2015,Shelby,All,140,495,Suppressed,6,36,7864
+880,2015,Vanderburgh,All,516,2222,Suppressed,11,222,36557
+881,2015,Warren,All,24,79,Suppressed,Suppressed,14,1329
+882,2016,Kosciusko,All,562,1017,Suppressed,7,87,14721
+883,2016,Lagrange,All,403,738,Suppressed,Suppressed,44,7208
+884,2016,Lawrence,All,134,496,Suppressed,6,48,7726
+885,2016,Madison,All,374,1507,Suppressed,13,162,23393
+886,2016,Shelby,All,99,492,Suppressed,Suppressed,32,7793
+887,2016,Spencer,All,34,197,Suppressed,Suppressed,13,3374
+888,2016,Vigo,All,440,1284,Suppressed,10,132,21501
+889,2016,Warren,All,18,80,Suppressed,Suppressed,Suppressed,1288
+890,2017,Morgan,All,202,807,Suppressed,Suppressed,83,12307
+891,2017,Noble,All,237,629,Suppressed,5,41,8552
+892,2017,Warren,All,17,86,Suppressed,Suppressed,Suppressed,1322
+893,2018,Clinton,All,121,424,Suppressed,Suppressed,46,5769
+894,2018,Hendricks,All,318,1703,Suppressed,10,156,32087
+895,2018,Huntington,All,109,424,Suppressed,Suppressed,37,6648
+896,2018,Jennings,All,113,321,Suppressed,Suppressed,23,4840
+897,2018,Ohio,All,13,57,Suppressed,Suppressed,Suppressed,915
+898,2018,Pulaski,All,23,129,Suppressed,Suppressed,13,2030
+899,2018,Union,All,16,69,Suppressed,Suppressed,Suppressed,1195
+900,2018,Wells,All,100,335,Suppressed,Suppressed,37,4763
+901,2019,Dearborn,All,116,526,Suppressed,Suppressed,59,8559
+902,2019,Hendricks,All,341,1657,Suppressed,5,159,32879
+903,2019,Newton,All,40,143,Suppressed,Suppressed,10,2295
+904,2019,Steuben,All,114,375,Suppressed,Suppressed,38,5681
+905,2014,Henry,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,74
+906,2014,Lagrange,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,23
+907,2014,Owen,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,11
+908,2014,Pike,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,11
+909,2014,Vermillion,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,7
+910,2015,Adams,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,21
+911,2015,Brown,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,11
+912,2015,Franklin,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,18
+913,2015,Jackson,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,62
+914,2015,Knox,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,355
+915,2015,Lawrence,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,30
+916,2015,Starke,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,9
+917,2016,Decatur,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,22
+918,2016,Gibson,Non-Hispanic Black,Suppressed,12,Suppressed,Suppressed,Suppressed,111
+919,2016,Howard,Non-Hispanic Black,47,114,Suppressed,Suppressed,Suppressed,1216
+920,2016,Johnson,Non-Hispanic Black,19,57,Suppressed,Suppressed,Suppressed,641
+921,2016,Marshall,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,50
+922,2016,Monroe,Non-Hispanic Black,32,75,Suppressed,Suppressed,Suppressed,1601
+923,2016,Newton,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,15
+924,2016,Pike,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,13
+925,2017,Bartholomew,Non-Hispanic Black,10,24,Suppressed,Suppressed,Suppressed,310
+926,2017,Clay,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,20
+927,2017,Fulton,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,21
+928,2017,Kosciusko,Non-Hispanic Black,Suppressed,15,Suppressed,Suppressed,Suppressed,150
+929,2017,Newton,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,14
+930,2017,Ohio,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,2
+931,2017,Owen,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,12
+932,2017,Posey,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,49
+933,2018,Benton,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,10
+934,2018,Dearborn,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,55
+935,2018,Kosciusko,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,153
+936,2018,Lake,Non-Hispanic Black,732,1628,Suppressed,16,254,24032
+937,2019,Delaware,Non-Hispanic Black,35,121,Suppressed,Suppressed,21,1885
+938,2019,Fayette,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,45
+939,2019,Perry,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,17
+940,2019,Sullivan,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,17
+941,2019,Wells,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,36
+942,2014,Clinton,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,1021
+943,2014,Johnson,Hispanic,19,58,Suppressed,Suppressed,Suppressed,1179
+944,2014,Knox,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,145
+945,2014,Miami,Hispanic,Suppressed,10,Suppressed,Suppressed,Suppressed,153
+946,2014,St. Joseph,Hispanic,153,370,Suppressed,Suppressed,24,5276
+947,2014,Union,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,24
+948,2014,Vanderburgh,Hispanic,33,72,Suppressed,Suppressed,Suppressed,1034
+949,2014,Vermillion,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,40
+950,2014,Vigo,Hispanic,11,22,Suppressed,Suppressed,Suppressed,494
+951,2014,Whitley,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,167
+952,2015,Elkhart,Hispanic,327,643,Suppressed,7,68,6883
+953,2015,Henry,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,130
+954,2015,Jasper,Hispanic,Suppressed,27,Suppressed,Suppressed,Suppressed,496
+955,2015,Kosciusko,Hispanic,62,95,Suppressed,Suppressed,Suppressed,1375
+956,2015,Ohio,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,21
+957,2015,Orange,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,80
+958,2015,Randolph,Hispanic,Suppressed,15,Suppressed,Suppressed,Suppressed,172
+959,2015,St. Joseph,Hispanic,174,392,Suppressed,Suppressed,Suppressed,5442
+960,2015,Vermillion,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,43
+961,2016,Fountain,Hispanic,Suppressed,11,Suppressed,Suppressed,Suppressed,83
+962,2016,Franklin,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,42
+963,2016,Fulton,Hispanic,Suppressed,10,Suppressed,Suppressed,Suppressed,228
+964,2016,Martin,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,24
+965,2016,Perry,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,53
+966,2016,Ripley,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,106
+967,2016,Rush,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,57
+968,2016,Steuben,Hispanic,Suppressed,20,Suppressed,Suppressed,Suppressed,261
+969,2017,Huntington,Hispanic,Suppressed,15,Suppressed,Suppressed,Suppressed,212
+970,2017,Montgomery,Hispanic,Suppressed,25,Suppressed,Suppressed,Suppressed,375
+971,2017,Noble,Hispanic,Suppressed,91,Suppressed,Suppressed,Suppressed,1132
+972,2017,Rush,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,60
+973,2017,Scott,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,109
+974,2017,Shelby,Hispanic,Suppressed,30,Suppressed,Suppressed,Suppressed,386
+975,2017,Vigo,Hispanic,Suppressed,24,Suppressed,Suppressed,Suppressed,525
+976,2018,Clark,Hispanic,59,104,Suppressed,Suppressed,10,1390
+977,2018,Dearborn,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,129
+978,2018,Delaware,Hispanic,Suppressed,31,Suppressed,Suppressed,Suppressed,766
+979,2018,Fayette,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,79
+980,2018,Hamilton,Hispanic,63,178,Suppressed,Suppressed,22,3350
+981,2018,Huntington,Hispanic,Suppressed,16,Suppressed,Suppressed,Suppressed,222
+982,2018,LaPorte,Hispanic,47,114,Suppressed,Suppressed,Suppressed,1561
+983,2018,Lawrence,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,160
+984,2019,Daviess,Hispanic,15,39,Suppressed,Suppressed,Suppressed,363
+985,2019,Fulton,Hispanic,Suppressed,12,Suppressed,Suppressed,Suppressed,227
+986,2019,Harrison,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,176
+987,2019,Madison,Hispanic,Suppressed,91,Suppressed,Suppressed,Suppressed,1197
+988,2019,Monroe,Hispanic,15,65,Suppressed,Suppressed,Suppressed,1639
+989,2019,Tippecanoe,Hispanic,79,271,Suppressed,Suppressed,27,4195
+990,2019,Vanderburgh,Hispanic,39,89,Suppressed,Suppressed,Suppressed,1203
+991,2014,Benton,Non-Hispanic White,36,99,Suppressed,Suppressed,Suppressed,1375
+992,2014,Blackford,Non-Hispanic White,45,Suppressed,Suppressed,Suppressed,Suppressed,1966
+993,2014,Clark,Non-Hispanic White,336,1166,Suppressed,10,113,18651
+994,2014,Kosciusko,Non-Hispanic White,587,937,Suppressed,Suppressed,82,12725
+995,2014,Lawrence,Non-Hispanic White,Suppressed,475,Suppressed,Suppressed,Suppressed,7389
+996,2014,Martin,Non-Hispanic White,29,Suppressed,Suppressed,Suppressed,Suppressed,1656
+997,2014,Montgomery,Non-Hispanic White,106,390,Suppressed,Suppressed,28,5944
+998,2014,Owen,Non-Hispanic White,Suppressed,209,Suppressed,Suppressed,16,3290
+999,2014,Ripley,Non-Hispanic White,75,316,Suppressed,Suppressed,Suppressed,4893
+1000,2014,Scott,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,24,4176
+1001,2014,Shelby,Non-Hispanic White,125,480,Suppressed,Suppressed,Suppressed,7296
+1002,2014,Vermillion,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,22,2622
+1003,2014,White,Non-Hispanic White,80,231,Suppressed,Suppressed,Suppressed,3487
+1004,2015,Delaware,Non-Hispanic White,234,1039,Suppressed,Suppressed,121,22998
+1005,2015,Huntington,Non-Hispanic White,103,415,Suppressed,Suppressed,Suppressed,6436
+1006,2015,Marion,Non-Hispanic White,1722,6902,8,47,684,110973
+1007,2015,Pulaski,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,12,1959
+1008,2015,Vanderburgh,Non-Hispanic White,377,1802,Suppressed,5,172,30128
+1009,2016,Allen,Non-Hispanic White,1188,3612,Suppressed,21,305,52441
+1010,2016,Bartholomew,Non-Hispanic White,245,819,Suppressed,Suppressed,70,12017
+1011,2016,Jennings,Non-Hispanic White,90,301,Suppressed,Suppressed,25,4712
+1012,2016,Whitley,Non-Hispanic White,99,398,Suppressed,Suppressed,Suppressed,5416
+1013,2017,Clark,Non-Hispanic White,296,1199,Suppressed,Suppressed,116,18354
+1014,2017,Delaware,Non-Hispanic White,188,961,Suppressed,Suppressed,91,22155
+1015,2017,Grant,Non-Hispanic White,160,669,Suppressed,Suppressed,76,11051
+1016,2017,Jackson,Non-Hispanic White,124,461,Suppressed,Suppressed,39,7024
+1017,2017,Jasper,Non-Hispanic White,102,343,Suppressed,Suppressed,Suppressed,5410
+1018,2017,Knox,Non-Hispanic White,75,390,Suppressed,Suppressed,37,6125
+1019,2017,Ohio,Non-Hispanic White,10,70,Suppressed,Suppressed,Suppressed,858
+1020,2017,Perry,Non-Hispanic White,Suppressed,208,Suppressed,Suppressed,22,2795
+1021,2017,Vigo,Non-Hispanic White,358,1081,Suppressed,Suppressed,127,18045
+1022,2018,Allen,Non-Hispanic White,1387,3529,Suppressed,15,308,52345
+1023,2018,Elkhart,Non-Hispanic White,756,2064,Suppressed,9,153,27621
+1024,2018,Jay,Non-Hispanic White,76,261,Suppressed,Suppressed,Suppressed,3302
+1025,2018,Morgan,Non-Hispanic White,176,715,Suppressed,5,73,11634
+1026,2018,Ohio,Non-Hispanic White,Suppressed,45,Suppressed,Suppressed,Suppressed,874
+1027,2018,Posey,Non-Hispanic White,Suppressed,274,Suppressed,Suppressed,Suppressed,4034
+1028,2018,Rush,Non-Hispanic White,Suppressed,189,Suppressed,Suppressed,Suppressed,2739
+1029,2018,Scott,Non-Hispanic White,81,225,Suppressed,Suppressed,24,4021
+1030,2018,Steuben,Non-Hispanic White,126,361,Suppressed,Suppressed,Suppressed,5146
+1031,2018,Tipton,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,2293
+1032,2018,Wabash,Non-Hispanic White,88,297,Suppressed,Suppressed,28,5152
+1033,2018,Unknown,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,
+1034,2019,Clark,Non-Hispanic White,219,851,Suppressed,5,51,18169
+1035,2019,Clay,Non-Hispanic White,72,306,Suppressed,Suppressed,Suppressed,4464
+1036,2019,Fountain,Non-Hispanic White,38,157,Suppressed,Suppressed,Suppressed,2588
+1037,2019,Harrison,Non-Hispanic White,72,319,Suppressed,Suppressed,19,6675
+1038,2019,Marion,Non-Hispanic White,1479,5978,6,37,578,108445
+1039,2019,Noble,Non-Hispanic White,220,519,Suppressed,Suppressed,33,7200
+1040,2019,Pike,Non-Hispanic White,22,Suppressed,Suppressed,Suppressed,18,1906
+1041,2019,Randolph,Non-Hispanic White,61,220,Suppressed,Suppressed,16,3823
+1042,2019,Union,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,1135
+1043,2019,White,Non-Hispanic White,47,247,Suppressed,Suppressed,Suppressed,3355
+1044,2014,Carroll,All,58,220,Suppressed,Suppressed,Suppressed,3459
+1045,2014,Dearborn,All,113,510,Suppressed,Suppressed,46,8679
+1046,2014,Franklin,All,51,250,Suppressed,Suppressed,22,3975
+1047,2014,Gibson,All,83,433,Suppressed,Suppressed,35,6022
+1048,2014,Johnson,All,506,1814,Suppressed,Suppressed,155,29182
+1049,2014,Lagrange,All,434,699,Suppressed,Suppressed,39,6957
+1050,2014,LaPorte,All,592,1331,Suppressed,10,138,18867
+1051,2014,Noble,All,242,630,Suppressed,Suppressed,55,8694
+1052,2014,Ohio,All,11,52,Suppressed,Suppressed,Suppressed,971
+1053,2014,Vanderburgh,All,711,2236,Suppressed,21,253,36620
+1054,2015,Allen,All,2302,5270,5,41,495,73819
+1055,2015,Blackford,All,26,121,Suppressed,Suppressed,10,2015
+1056,2015,Cass,All,197,495,Suppressed,9,50,6679
+1057,2015,Hancock,All,126,824,Suppressed,5,85,13406
+1058,2015,Henry,All,110,476,Suppressed,Suppressed,41,7922
+1059,2015,Lagrange,All,430,753,Suppressed,5,45,7049
+1060,2015,Marshall,All,242,608,Suppressed,6,45,8257
+1061,2015,Morgan,All,217,776,Suppressed,Suppressed,72,12469
+1062,2015,Ohio,All,11,54,Suppressed,Suppressed,Suppressed,944
+1063,2015,Orange,All,70,240,Suppressed,Suppressed,17,3379
+1064,2015,Parke,All,93,228,Suppressed,Suppressed,18,3452
+1065,2015,Perry,All,72,235,Suppressed,Suppressed,29,2976
+1066,2015,Rush,All,41,188,Suppressed,Suppressed,18,2919
+1067,2015,Sullivan,All,61,206,Suppressed,Suppressed,15,3385
+1068,2015,Tipton,All,30,144,Suppressed,Suppressed,16,2511
+1069,2016,Carroll,All,63,218,Suppressed,Suppressed,15,3414
+1070,2016,Delaware,All,298,1173,Suppressed,7,116,26278
+1071,2016,Elkhart,All,1171,3130,5,31,309,38806
+1072,2016,Fountain,All,57,168,Suppressed,Suppressed,13,2772
+1073,2016,Porter,All,515,1757,Suppressed,8,171,31997
+1074,2016,Posey,All,40,263,Suppressed,Suppressed,27,4367
+1075,2016,Sullivan,All,65,199,Suppressed,5,17,3328
+1076,2016,Tippecanoe,All,668,2358,Suppressed,8,203,45250
+1077,2016,White,All,87,296,Suppressed,Suppressed,20,3868
+1078,2017,Clinton,All,125,429,Suppressed,Suppressed,33,5750
+1079,2017,Daviess,All,213,553,Suppressed,Suppressed,36,5867
+1080,2017,Fayette,All,89,278,Suppressed,Suppressed,29,4003
+1081,2017,Henry,All,123,450,Suppressed,Suppressed,51,7783
+1082,2017,Huntington,All,100,424,Suppressed,Suppressed,47,6726
+1083,2017,Jennings,All,102,347,Suppressed,Suppressed,28,4871
+1084,2017,Kosciusko,All,589,1057,Suppressed,9,89,14728
+1085,2017,Martin,All,25,113,Suppressed,Suppressed,17,1631
+1086,2017,Spencer,All,43,214,Suppressed,Suppressed,15,3366
+1087,2017,Tippecanoe,All,507,2240,Suppressed,17,229,45791
+1088,2017,Vanderburgh,All,518,2127,Suppressed,15,219,36180
+1089,2017,Warrick,All,104,640,Suppressed,5,72,11076
+1090,2018,Crawford,All,26,115,Suppressed,Suppressed,15,1684
+1091,2018,Elkhart,All,1273,3116,5,26,265,38896
+1092,2018,Hamilton,All,575,3781,Suppressed,14,339,65839
+1093,2018,Jay,All,103,306,Suppressed,Suppressed,41,3499
+1094,2018,Madison,All,361,1403,Suppressed,8,159,23143
+1095,2019,Delaware,All,225,1053,Suppressed,9,119,25779
+1096,2019,Floyd,All,180,850,Suppressed,6,70,14973
+1097,2019,Johnson,All,367,1852,Suppressed,9,180,31205
+1098,2019,Lagrange,All,396,739,Suppressed,Suppressed,47,7231
+1099,2019,Owen,All,46,216,Suppressed,Suppressed,20,3414
+1100,2019,Pike,All,22,133,Suppressed,Suppressed,18,2023
+1101,2019,Pulaski,All,37,132,Suppressed,Suppressed,13,2007
+1102,2019,Starke,All,50,265,Suppressed,Suppressed,21,3973
+1103,2014,Hancock,Non-Hispanic Black,Suppressed,15,Suppressed,Suppressed,Suppressed,342
+1104,2014,Lawrence,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,32
+1105,2014,Newton,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,14
+1106,2014,Perry,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,7
+1107,2014,Putnam,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,132
+1108,2014,Steuben,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,39
+1109,2014,Switzerland,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,6
+1110,2014,Wells,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,26
+1111,2014,Whitley,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,27
+1112,2015,Allen,Non-Hispanic Black,419,811,Suppressed,11,102,9671
+1113,2015,Marshall,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,48
+1114,2015,Ripley,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,27
+1115,2015,Spencer,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,24
+1116,2015,Switzerland,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,5
+1117,2016,Adams,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,21
+1118,2016,Bartholomew,Non-Hispanic Black,15,29,Suppressed,Suppressed,Suppressed,326
+1119,2016,Knox,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,344
+1120,2016,Marion,Non-Hispanic Black,1960,4531,7,66,620,61583
+1121,2016,Shelby,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,92
+1122,2017,Decatur,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,22
+1123,2017,Dubois,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,48
+1124,2017,Elkhart,Non-Hispanic Black,142,267,Suppressed,Suppressed,Suppressed,2402
+1125,2017,Hamilton,Non-Hispanic Black,60,195,Suppressed,Suppressed,18,2926
+1126,2017,Henry,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,72
+1127,2017,Lawrence,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,33
+1128,2017,Morgan,Non-Hispanic Black,Suppressed,10,Suppressed,Suppressed,Suppressed,55
+1129,2017,Scott,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,17
+1130,2017,White,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,21
+1131,2018,Clark,Non-Hispanic Black,41,105,Suppressed,Suppressed,11,1977
+1132,2018,Dubois,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,59
+1133,2018,Fayette,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,47
+1134,2018,Ohio,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,2
+1135,2018,Posey,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,49
+1136,2018,Putnam,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,132
+1137,2019,Clark,Non-Hispanic Black,37,95,Suppressed,Suppressed,Suppressed,2087
+1138,2019,Clay,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,23
+1139,2019,Jefferson,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,242
+1140,2019,Lagrange,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,35
+1141,2019,Morgan,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,60
+1142,2019,Pike,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,11
+1143,2019,Posey,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,48
+1144,2019,St. Joseph,Non-Hispanic Black,361,728,Suppressed,Suppressed,93,8260
+1145,2019,Tipton,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,14
+1146,2019,Unknown,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,
+1147,2014,Boone,Hispanic,Suppressed,16,Suppressed,Suppressed,Suppressed,362
+1148,2014,Cass,Hispanic,76,127,Suppressed,Suppressed,Suppressed,1133
+1149,2014,Dearborn,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,113
+1150,2014,Dubois,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,631
+1151,2014,Franklin,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,53
+1152,2014,Hancock,Hispanic,Suppressed,11,Suppressed,Suppressed,Suppressed,359
+1153,2014,Howard,Hispanic,Suppressed,22,Suppressed,Suppressed,Suppressed,567
+1154,2014,Huntington,Hispanic,Suppressed,12,Suppressed,Suppressed,Suppressed,179
+1155,2014,Lagrange,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,319
+1156,2014,Parke,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,59
+1157,2014,Switzerland,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,51
+1158,2015,Allen,Hispanic,236,490,Suppressed,Suppressed,52,6048
+1159,2015,Blackford,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,45
+1160,2015,Cass,Hispanic,71,135,Suppressed,Suppressed,Suppressed,1158
+1161,2015,Floyd,Hispanic,Suppressed,30,Suppressed,Suppressed,Suppressed,495
+1162,2015,Parke,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,62
+1163,2015,Posey,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,61
+1164,2015,Ripley,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,108
+1165,2015,Union,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,24
+1166,2015,Warrick,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,244
+1167,2016,Cass,Hispanic,61,124,Suppressed,Suppressed,Suppressed,1153
+1168,2016,Crawford,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,32
+1169,2016,Grant,Hispanic,Suppressed,40,Suppressed,Suppressed,Suppressed,600
+1170,2016,Jackson,Hispanic,54,82,Suppressed,Suppressed,Suppressed,492
+1171,2016,Johnson,Hispanic,37,77,Suppressed,Suppressed,Suppressed,1217
+1172,2016,Posey,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,60
+1173,2016,Shelby,Hispanic,Suppressed,26,Suppressed,Suppressed,Suppressed,395
+1174,2017,Boone,Hispanic,Suppressed,21,Suppressed,Suppressed,Suppressed,447
+1175,2017,Brown,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,55
+1176,2017,Cass,Hispanic,47,118,Suppressed,Suppressed,Suppressed,1248
+1177,2017,Kosciusko,Hispanic,62,92,Suppressed,Suppressed,11,1405
+1178,2017,Washington,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,81
+1179,2018,Boone,Hispanic,Suppressed,19,Suppressed,Suppressed,Suppressed,491
+1180,2018,Clinton,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,1125
+1181,2018,Hendricks,Hispanic,22,73,Suppressed,Suppressed,Suppressed,1629
+1182,2018,Jasper,Hispanic,Suppressed,28,Suppressed,Suppressed,Suppressed,477
+1183,2018,Jay,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,118
+1184,2018,Knox,Hispanic,Suppressed,18,Suppressed,Suppressed,Suppressed,187
+1185,2018,Lake,Hispanic,475,1306,Suppressed,Suppressed,121,21411
+1186,2018,Ohio,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,23
+1187,2018,Pulaski,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,97
+1188,2018,Scott,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,109
+1189,2018,Starke,Hispanic,Suppressed,11,Suppressed,Suppressed,Suppressed,204
+1190,2018,Warrick,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,262
+1191,2019,Adams,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,333
+1192,2019,Brown,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,57
+1193,2019,Carroll,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,182
+1194,2019,Clinton,Hispanic,45,108,Suppressed,Suppressed,Suppressed,1140
+1195,2019,Fountain,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,93
+1196,2019,Franklin,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,52
+1197,2019,Hamilton,Hispanic,57,162,Suppressed,Suppressed,18,3561
+1198,2019,Porter,Hispanic,52,181,Suppressed,Suppressed,14,4353
+1199,2019,Steuben,Hispanic,Suppressed,19,Suppressed,Suppressed,Suppressed,291
+1200,2019,Switzerland,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,50
+1201,2019,Vermillion,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,52
+1202,2019,Washington,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,83
+1203,2014,Bartholomew,Non-Hispanic White,237,788,Suppressed,Suppressed,72,12193
+1204,2014,Henry,Non-Hispanic White,Suppressed,472,Suppressed,Suppressed,Suppressed,7617
+1205,2014,Howard,Non-Hispanic White,204,850,Suppressed,Suppressed,64,12493
+1206,2014,Lagrange,Non-Hispanic White,424,680,Suppressed,Suppressed,Suppressed,6519
+1207,2014,Tipton,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,19,2448
+1208,2015,Clark,Non-Hispanic White,291,1196,Suppressed,Suppressed,105,18609
+1209,2015,Dubois,Non-Hispanic White,63,489,Suppressed,8,57,6612
+1210,2015,Gibson,Non-Hispanic White,63,367,Suppressed,Suppressed,Suppressed,5620
+1211,2015,Ohio,Non-Hispanic White,11,54,Suppressed,Suppressed,Suppressed,906
+1212,2015,Perry,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,2846
+1213,2015,Pike,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,10,1954
+1214,2015,St. Joseph,Non-Hispanic White,660,2290,Suppressed,16,191,37991
+1215,2015,Vermillion,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,2549
+1216,2015,Wayne,Non-Hispanic White,242,712,Suppressed,Suppressed,71,10536
+1217,2015,Whitley,Non-Hispanic White,Suppressed,388,Suppressed,Suppressed,Suppressed,5468
+1218,2016,Howard,Non-Hispanic White,216,835,Suppressed,Suppressed,66,12326
+1219,2016,Newton,Non-Hispanic White,Suppressed,135,Suppressed,Suppressed,Suppressed,2035
+1220,2016,Noble,Non-Hispanic White,175,488,Suppressed,Suppressed,41,7259
+1221,2016,Rush,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,18,2744
+1222,2016,Tippecanoe,Non-Hispanic White,396,1608,Suppressed,Suppressed,138,33384
+1223,2016,Wells,Non-Hispanic White,Suppressed,358,Suppressed,Suppressed,Suppressed,4450
+1224,2017,Carroll,Non-Hispanic White,Suppressed,228,Suppressed,Suppressed,Suppressed,3129
+1225,2017,Harrison,Non-Hispanic White,109,416,Suppressed,Suppressed,Suppressed,6502
+1226,2017,LaPorte,Non-Hispanic White,344,967,Suppressed,Suppressed,113,14088
+1227,2017,Spencer,Non-Hispanic White,38,200,Suppressed,Suppressed,Suppressed,3134
+1228,2017,White,Non-Hispanic White,45,250,Suppressed,Suppressed,Suppressed,3401
+1229,2018,Floyd,Non-Hispanic White,146,578,Suppressed,Suppressed,42,12624
+1230,2018,Knox,Non-Hispanic White,101,371,Suppressed,Suppressed,44,5930
+1231,2018,Marion,Non-Hispanic White,1567,6119,Suppressed,38,617,107702
+1232,2018,Montgomery,Non-Hispanic White,92,398,Suppressed,Suppressed,37,5849
+1233,2018,Parke,Non-Hispanic White,90,Suppressed,Suppressed,Suppressed,Suppressed,3000
+1234,2018,Pulaski,Non-Hispanic White,Suppressed,123,Suppressed,Suppressed,13,1888
+1235,2018,Vermillion,Non-Hispanic White,Suppressed,162,Suppressed,Suppressed,Suppressed,2493
+1236,2019,Franklin,Non-Hispanic White,32,142,Suppressed,Suppressed,20,3639
+1237,2019,Hancock,Non-Hispanic White,93,781,Suppressed,Suppressed,57,13039
+1238,2019,Morgan,Non-Hispanic White,159,704,Suppressed,Suppressed,69,11617
+1239,2019,Wayne,Non-Hispanic White,206,649,Suppressed,Suppressed,87,10157
+1240,2019,Unknown,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,
+1241,2014,Harrison,All,92,452,Suppressed,Suppressed,32,6973
+1242,2014,Huntington,All,138,428,Suppressed,Suppressed,31,6886
+1243,2014,Jefferson,All,91,388,Suppressed,Suppressed,39,6535
+1244,2014,Parke,All,78,195,Suppressed,Suppressed,23,3568
+1245,2015,Gibson,All,72,388,Suppressed,Suppressed,45,5994
+1246,2015,Jefferson,All,88,371,Suppressed,Suppressed,34,6593
+1247,2015,Monroe,All,261,1353,Suppressed,8,117,38961
+1248,2015,Montgomery,All,153,473,Suppressed,Suppressed,45,6544
+1249,2015,Noble,All,230,654,Suppressed,Suppressed,55,8695
+1250,2015,Ripley,All,83,324,Suppressed,Suppressed,28,5162
+1251,2015,Washington,All,117,332,Suppressed,Suppressed,22,4934
+1252,2015,White,All,106,303,Suppressed,Suppressed,29,3924
+1253,2016,Hamilton,All,617,3853,Suppressed,18,362,63273
+1254,2016,Marshall,All,235,590,Suppressed,Suppressed,45,8163
+1255,2016,Morgan,All,230,816,Suppressed,Suppressed,56,12385
+1256,2016,Owen,All,64,212,Suppressed,Suppressed,28,3426
+1257,2016,Wells,All,91,369,Suppressed,Suppressed,23,4732
+1258,2017,Bartholomew,All,301,1045,Suppressed,6,61,15086
+1259,2017,Cass,All,122,456,Suppressed,Suppressed,40,6577
+1260,2017,Fulton,All,103,227,Suppressed,Suppressed,22,3364
+1261,2017,Knox,All,83,415,Suppressed,Suppressed,42,6852
+1262,2017,Lake,All,1729,5610,11,59,531,92786
+1263,2017,Randolph,All,77,292,Suppressed,Suppressed,29,4233
+1264,2017,Starke,All,108,264,Suppressed,Suppressed,35,3928
+1265,2017,Wayne,All,300,782,Suppressed,5,56,11801
+1266,2018,Blackford,All,34,145,Suppressed,Suppressed,14,1912
+1267,2018,Clay,All,92,324,Suppressed,5,35,4646
+1268,2018,Gibson,All,74,424,Suppressed,Suppressed,47,5836
+1269,2018,Grant,All,198,783,Suppressed,6,101,12880
+1270,2018,Monroe,All,252,1245,Suppressed,9,142,39015
+1271,2018,Montgomery,All,104,438,Suppressed,Suppressed,43,6406
+1272,2019,Daviess,All,235,572,Suppressed,Suppressed,43,5943
+1273,2019,Grant,All,232,759,Suppressed,Suppressed,62,12873
+1274,2019,Greene,All,78,320,Suppressed,Suppressed,34,5244
+1275,2019,Jasper,All,106,363,Suppressed,Suppressed,29,6118
+1276,2019,Kosciusko,All,342,949,Suppressed,7,114,14552
+1277,2019,Lawrence,All,134,505,Suppressed,Suppressed,38,7647
+1278,2019,Porter,All,445,1642,Suppressed,6,169,32467
+1279,2019,Putnam,All,87,368,Suppressed,Suppressed,38,6897
+1280,2019,Tipton,All,27,152,Suppressed,Suppressed,20,2424
+1281,2019,Union,All,33,99,Suppressed,Suppressed,11,1206
+1282,2019,Warren,All,12,75,Suppressed,Suppressed,Suppressed,1357
+1283,2014,Cass,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,84
+1284,2014,Dearborn,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,57
+1285,2014,Delaware,Non-Hispanic Black,37,119,Suppressed,Suppressed,21,1991
+1286,2014,Fulton,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,22
+1287,2014,Marshall,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,50
+1288,2014,Martin,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,3
+1289,2014,Ohio,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,3
+1290,2014,Randolph,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,22
+1291,2014,Starke,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,12
+1292,2014,Wayne,Non-Hispanic Black,22,49,Suppressed,Suppressed,Suppressed,585
+1293,2015,Benton,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,11
+1294,2015,Cass,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,83
+1295,2015,Fayette,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,47
+1296,2015,Greene,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,11
+1297,2015,LaPorte,Non-Hispanic Black,137,199,Suppressed,Suppressed,22,2086
+1298,2015,Ohio,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,2
+1299,2015,Owen,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,12
+1300,2015,Porter,Non-Hispanic Black,37,94,Suppressed,Suppressed,Suppressed,1547
+1301,2015,Washington,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,15
+1302,2015,Wells,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,26
+1303,2016,Benton,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,10
+1304,2016,Daviess,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,82
+1305,2016,Jasper,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,59
+1306,2016,Rush,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,26
+1307,2016,Tippecanoe,Non-Hispanic Black,122,272,Suppressed,Suppressed,35,2662
+1308,2016,Vermillion,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,11
+1309,2016,Wells,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,29
+1310,2017,Floyd,Non-Hispanic Black,33,80,Suppressed,Suppressed,12,882
+1311,2017,Jay,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,11
+1312,2017,Martin,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,4
+1313,2017,Shelby,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,92
+1314,2017,Steuben,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,49
+1315,2017,Wells,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,28
+1316,2018,De Kalb,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,31
+1317,2018,Greene,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,12
+1318,2018,Lawrence,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,33
+1319,2018,Porter,Non-Hispanic Black,39,109,Suppressed,Suppressed,15,1672
+1320,2018,Pulaski,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,17
+1321,2018,Wabash,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,80
+1322,2019,Benton,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,11
+1323,2019,Floyd,Non-Hispanic Black,15,62,Suppressed,Suppressed,Suppressed,913
+1324,2019,Lawrence,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,32
+1325,2019,Martin,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,6
+1326,2019,Noble,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,45
+1327,2019,Ohio,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,2
+1328,2019,Scott,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,20
+1329,2019,Spencer,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,25
+1330,2019,Warrick,Non-Hispanic Black,Suppressed,18,Suppressed,Suppressed,Suppressed,183
+1331,2014,Allen,Hispanic,230,469,Suppressed,Suppressed,37,5907
+1332,2014,Decatur,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,83
+1333,2014,Marshall,Hispanic,30,70,Suppressed,Suppressed,Suppressed,985
+1334,2014,Monroe,Hispanic,19,49,Suppressed,Suppressed,Suppressed,1456
+1335,2014,Montgomery,Hispanic,Suppressed,34,Suppressed,Suppressed,Suppressed,361
+1336,2014,Posey,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,59
+1337,2014,Steuben,Hispanic,13,18,Suppressed,Suppressed,Suppressed,224
+1338,2014,Washington,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,85
+1339,2014,White,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,391
+1340,2015,Benton,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,92
+1341,2015,Clay,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,81
+1342,2015,Delaware,Hispanic,Suppressed,23,Suppressed,Suppressed,Suppressed,710
+1343,2015,Harrison,Hispanic,Suppressed,12,Suppressed,Suppressed,Suppressed,143
+1344,2015,Huntington,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,187
+1345,2015,Johnson,Hispanic,33,84,Suppressed,Suppressed,Suppressed,1189
+1346,2015,Monroe,Hispanic,21,63,Suppressed,Suppressed,Suppressed,1502
+1347,2015,Starke,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,176
+1348,2016,Allen,Hispanic,196,461,Suppressed,Suppressed,33,6123
+1349,2016,Hancock,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,417
+1350,2016,Jennings,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,133
+1351,2016,Kosciusko,Hispanic,67,107,Suppressed,Suppressed,Suppressed,1386
+1352,2016,Monroe,Hispanic,14,57,Suppressed,Suppressed,Suppressed,1564
+1353,2016,Pike,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,48
+1354,2016,Randolph,Hispanic,Suppressed,21,Suppressed,Suppressed,Suppressed,164
+1355,2016,Switzerland,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,62
+1356,2016,Wabash,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,195
+1357,2016,Warrick,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,246
+1358,2017,Hendricks,Hispanic,24,82,Suppressed,Suppressed,12,1540
+1359,2017,Jefferson,Hispanic,Suppressed,21,Suppressed,Suppressed,Suppressed,241
+1360,2017,Marshall,Hispanic,Suppressed,99,Suppressed,Suppressed,Suppressed,1054
+1361,2017,Porter,Hispanic,36,139,Suppressed,Suppressed,Suppressed,4102
+1362,2017,Starke,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,181
+1363,2017,Vanderburgh,Hispanic,44,92,Suppressed,Suppressed,Suppressed,1129
+1364,2017,White,Hispanic,Suppressed,44,Suppressed,Suppressed,Suppressed,445
+1365,2018,Grant,Hispanic,Suppressed,51,Suppressed,Suppressed,Suppressed,610
+1366,2018,Henry,Hispanic,Suppressed,13,Suppressed,Suppressed,Suppressed,159
+1367,2018,Howard,Hispanic,Suppressed,23,Suppressed,Suppressed,Suppressed,591
+1368,2018,Marion,Hispanic,1199,2119,Suppressed,8,212,23203
+1369,2018,Martin,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,24
+1370,2018,Orange,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,83
+1371,2018,St. Joseph,Hispanic,210,463,Suppressed,Suppressed,54,5730
+1372,2018,Union,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,26
+1373,2018,Vanderburgh,Hispanic,39,90,Suppressed,Suppressed,Suppressed,1150
+1374,2018,Vigo,Hispanic,Suppressed,17,Suppressed,Suppressed,Suppressed,532
+1375,2018,Warren,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,44
+1376,2019,Clay,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,81
+1377,2019,Knox,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,194
+1378,2019,Lagrange,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,378
+1379,2019,Orange,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,70
+1380,2019,Pike,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,57
+1381,2014,Clay,Non-Hispanic White,Suppressed,297,Suppressed,Suppressed,40,4656
+1382,2014,Dearborn,Non-Hispanic White,104,494,Suppressed,Suppressed,Suppressed,8336
+1383,2014,Delaware,Non-Hispanic White,242,1070,Suppressed,10,127,23294
+1384,2014,LaPorte,Non-Hispanic White,393,1013,Suppressed,5,96,14855
+1385,2014,Madison,Non-Hispanic White,265,1223,Suppressed,Suppressed,115,20054
+1386,2014,Pike,Non-Hispanic White,35,Suppressed,Suppressed,Suppressed,Suppressed,1976
+1387,2014,Switzerland,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,1676
+1388,2015,Bartholomew,Non-Hispanic White,260,813,Suppressed,9,74,12249
+1389,2015,Cass,Non-Hispanic White,114,335,Suppressed,Suppressed,37,5213
+1390,2015,Elkhart,Non-Hispanic White,844,2223,Suppressed,15,195,28100
+1391,2015,Lagrange,Non-Hispanic White,419,727,Suppressed,5,Suppressed,6571
+1392,2015,Marshall,Non-Hispanic White,193,499,Suppressed,Suppressed,38,7026
+1393,2015,Morgan,Non-Hispanic White,Suppressed,760,Suppressed,Suppressed,Suppressed,11969
+1394,2015,Putnam,Non-Hispanic White,62,351,Suppressed,Suppressed,Suppressed,6331
+1395,2016,Montgomery,Non-Hispanic White,103,407,Suppressed,Suppressed,Suppressed,5947
+1396,2016,Posey,Non-Hispanic White,Suppressed,249,Suppressed,Suppressed,Suppressed,4151
+1397,2016,Wabash,Non-Hispanic White,119,338,Suppressed,Suppressed,Suppressed,5192
+1398,2017,Dearborn,Non-Hispanic White,111,464,Suppressed,Suppressed,40,8299
+1399,2017,Huntington,Non-Hispanic White,92,403,Suppressed,Suppressed,Suppressed,6247
+1400,2017,Vermillion,Non-Hispanic White,Suppressed,164,Suppressed,Suppressed,Suppressed,2497
+1401,2017,Wabash,Non-Hispanic White,Suppressed,304,Suppressed,Suppressed,Suppressed,5164
+1402,2018,Bartholomew,Non-Hispanic White,195,731,Suppressed,Suppressed,65,11811
+1403,2018,Miami,Non-Hispanic White,82,336,Suppressed,Suppressed,Suppressed,5144
+1404,2018,Putnam,Non-Hispanic White,Suppressed,357,Suppressed,Suppressed,22,6367
+1405,2018,Shelby,Non-Hispanic White,85,444,Suppressed,7,44,7107
+1406,2018,Spencer,Non-Hispanic White,25,148,Suppressed,Suppressed,Suppressed,3114
+1407,2018,Washington,Non-Hispanic White,Suppressed,295,Suppressed,Suppressed,17,4704
+1408,2018,Wells,Non-Hispanic White,94,321,Suppressed,Suppressed,Suppressed,4446
+1409,2019,Adams,Non-Hispanic White,399,623,Suppressed,7,Suppressed,5724
+1410,2019,Allen,Non-Hispanic White,1372,3531,Suppressed,16,321,52747
+1411,2019,Boone,Non-Hispanic White,133,756,Suppressed,Suppressed,67,11198
+1412,2019,Floyd,Non-Hispanic White,107,544,Suppressed,Suppressed,19,12707
+1413,2019,Huntington,Non-Hispanic White,77,364,Suppressed,Suppressed,Suppressed,6201
+1414,2019,Jennings,Non-Hispanic White,72,300,Suppressed,Suppressed,Suppressed,4556
+1415,2019,Shelby,Non-Hispanic White,89,439,Suppressed,Suppressed,Suppressed,7109
+1416,2014,Greene,All,107,346,Suppressed,Suppressed,33,5542
+1417,2014,Hendricks,All,406,1797,Suppressed,6,167,30484
+1418,2014,Lake,All,1934,6080,5,47,598,95241
+1419,2014,Morgan,All,196,743,Suppressed,Suppressed,60,12531
+1420,2014,Perry,All,62,177,Suppressed,Suppressed,13,2986
+1421,2014,Posey,All,63,265,Suppressed,Suppressed,32,4416
+1422,2014,Rush,All,74,200,Suppressed,Suppressed,13,2932
+1423,2014,Warrick,All,150,664,Suppressed,7,67,10836
+1424,2014,Wayne,All,275,765,Suppressed,6,57,12119
+1425,2015,Elkhart,All,1342,3188,Suppressed,28,301,38993
+1426,2015,Miami,All,97,374,Suppressed,Suppressed,32,5846
+1427,2015,Scott,All,100,300,Suppressed,Suppressed,32,4348
+1428,2015,Steuben,All,132,416,Suppressed,Suppressed,31,5883
+1429,2015,Vigo,All,432,1285,Suppressed,10,133,21714
+1430,2015,Warrick,All,109,683,Suppressed,Suppressed,69,11005
+1431,2016,Benton,All,30,114,Suppressed,Suppressed,10,1461
+1432,2016,Grant,All,161,688,Suppressed,5,71,13188
+1433,2016,Howard,All,274,993,Suppressed,8,74,14765
+1434,2016,Jackson,All,199,635,Suppressed,Suppressed,48,7983
+1435,2016,Randolph,All,79,295,Suppressed,Suppressed,38,4270
+1436,2016,Vermillion,All,46,155,Suppressed,Suppressed,16,2620
+1437,2016,Wabash,All,126,353,Suppressed,Suppressed,32,5618
+1438,2016,Warrick,All,103,638,Suppressed,Suppressed,56,11022
+1439,2017,Crawford,All,42,121,Suppressed,Suppressed,11,1728
+1440,2017,Jefferson,All,84,376,Suppressed,Suppressed,34,6383
+1441,2017,Monroe,All,254,1250,Suppressed,Suppressed,91,39071
+1442,2017,Scott,All,93,275,Suppressed,Suppressed,25,4358
+1443,2017,Union,All,18,69,Suppressed,Suppressed,Suppressed,1221
+1444,2017,Vermillion,All,69,170,Suppressed,Suppressed,10,2603
+1445,2018,Adams,All,394,649,Suppressed,5,57,6163
+1446,2018,Bartholomew,All,292,1030,Suppressed,Suppressed,92,15263
+1447,2018,Benton,All,33,108,Suppressed,Suppressed,12,1471
+1448,2018,Fayette,All,79,272,Suppressed,Suppressed,23,4025
+1449,2018,Floyd,All,239,853,Suppressed,9,77,14738
+1450,2018,Knox,All,117,407,Suppressed,Suppressed,51,6577
+1451,2018,Newton,All,55,161,Suppressed,Suppressed,15,2272
+1452,2018,Randolph,All,67,269,Suppressed,Suppressed,40,4189
+1453,2019,Blackford,All,35,125,Suppressed,Suppressed,14,1893
+1454,2019,Cass,All,147,461,Suppressed,Suppressed,41,6596
+1455,2019,Decatur,All,65,291,Suppressed,Suppressed,29,4736
+1456,2019,Shelby,All,110,482,Suppressed,Suppressed,36,7826
+1457,2019,Wayne,All,265,785,Suppressed,7,106,11781
+1458,2014,Bartholomew,Non-Hispanic Black,13,34,Suppressed,Suppressed,Suppressed,316
+1459,2014,Benton,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,13
+1460,2014,Boone,Non-Hispanic Black,Suppressed,17,Suppressed,Suppressed,Suppressed,198
+1461,2014,Clay,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,14
+1462,2014,Dubois,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,29
+1463,2014,Jasper,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,62
+1464,2014,Johnson,Non-Hispanic Black,19,43,Suppressed,Suppressed,Suppressed,523
+1465,2014,Knox,Non-Hispanic Black,Suppressed,12,Suppressed,Suppressed,Suppressed,358
+1466,2014,Rush,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,29
+1467,2014,St. Joseph,Non-Hispanic Black,303,653,Suppressed,Suppressed,65,7696
+1468,2015,Dearborn,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,57
+1469,2015,Hendricks,Non-Hispanic Black,31,91,Suppressed,Suppressed,Suppressed,1913
+1470,2015,Lagrange,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,25
+1471,2015,Martin,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,7
+1472,2015,Montgomery,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,53
+1473,2015,Parke,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,259
+1474,2016,Brown,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,13
+1475,2016,Carroll,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,22
+1476,2016,Greene,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,11
+1477,2016,Jay,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,13
+1478,2016,Ohio,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,2
+1479,2016,Porter,Non-Hispanic Black,32,92,Suppressed,Suppressed,12,1516
+1480,2016,Starke,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,11
+1481,2016,Switzerland,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,6
+1482,2016,White,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,20
+1483,2017,Hendricks,Non-Hispanic Black,44,107,Suppressed,Suppressed,Suppressed,2229
+1484,2017,Jackson,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,67
+1485,2017,Spencer,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,28
+1486,2017,Vermillion,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,11
+1487,2018,Bartholomew,Non-Hispanic Black,15,41,Suppressed,Suppressed,Suppressed,332
+1488,2018,Floyd,Non-Hispanic Black,17,47,Suppressed,Suppressed,Suppressed,906
+1489,2018,Jay,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,15
+1490,2018,Madison,Non-Hispanic Black,39,133,Suppressed,Suppressed,25,1872
+1491,2018,Marion,Non-Hispanic Black,2265,4757,8,60,652,63226
+1492,2018,Spencer,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,27
+1493,2018,Vermillion,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,10
+1494,2019,Adams,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,36
+1495,2019,Brown,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,14
+1496,2019,Harrison,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,36
+1497,2019,Madison,Non-Hispanic Black,41,148,Suppressed,Suppressed,16,1844
+1498,2019,Marshall,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,50
+1499,2019,Randolph,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,22
+1500,2019,Vanderburgh,Non-Hispanic Black,105,317,Suppressed,Suppressed,51,3738
+1501,2019,Vigo,Non-Hispanic Black,36,91,Suppressed,Suppressed,12,1645
+1502,2019,White,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,21
+1503,2019,Whitley,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,16
+1504,2014,Brown,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,56
+1505,2014,Clark,Hispanic,68,117,Suppressed,Suppressed,Suppressed,1284
+1506,2014,De Kalb,Hispanic,Suppressed,13,Suppressed,Suppressed,Suppressed,259
+1507,2014,Delaware,Hispanic,Suppressed,21,Suppressed,Suppressed,Suppressed,709
+1508,2014,Fayette,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,34
+1509,2014,LaPorte,Hispanic,Suppressed,110,Suppressed,Suppressed,Suppressed,1418
+1510,2014,Rush,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,50
+1511,2014,Scott,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,99
+1512,2014,Warren,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,33
+1513,2014,Wells,Hispanic,Suppressed,15,Suppressed,Suppressed,Suppressed,145
+1514,2015,Adams,Hispanic,Suppressed,12,Suppressed,Suppressed,Suppressed,324
+1515,2015,Dubois,Hispanic,Suppressed,72,Suppressed,Suppressed,Suppressed,656
+1516,2015,Grant,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,598
+1517,2015,Jay,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,111
+1518,2015,Jefferson,Hispanic,Suppressed,29,Suppressed,Suppressed,Suppressed,218
+1519,2015,LaPorte,Hispanic,Suppressed,115,Suppressed,Suppressed,Suppressed,1499
+1520,2015,Wells,Hispanic,Suppressed,14,Suppressed,Suppressed,Suppressed,145
+1521,2016,Benton,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,80
+1522,2016,Clay,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,81
+1523,2016,Dearborn,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,129
+1524,2016,Dubois,Hispanic,Suppressed,72,Suppressed,Suppressed,10,631
+1525,2016,Knox,Hispanic,Suppressed,16,Suppressed,Suppressed,Suppressed,169
+1526,2016,Miami,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,197
+1527,2016,Newton,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,186
+1528,2016,Pulaski,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,89
+1529,2016,Tipton,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,93
+1530,2016,Wayne,Hispanic,Suppressed,26,Suppressed,Suppressed,Suppressed,388
+1531,2017,De Kalb,Hispanic,Suppressed,12,Suppressed,Suppressed,Suppressed,297
+1532,2017,Howard,Hispanic,Suppressed,37,Suppressed,Suppressed,Suppressed,603
+1533,2017,Monroe,Hispanic,16,53,Suppressed,Suppressed,Suppressed,1562
+1534,2017,Owen,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,60
+1535,2017,Putnam,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,156
+1536,2018,Benton,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,75
+1537,2018,Brown,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,56
+1538,2018,Crawford,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,32
+1539,2018,Decatur,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,108
+1540,2018,Monroe,Hispanic,12,48,Suppressed,Suppressed,Suppressed,1593
+1541,2018,Noble,Hispanic,48,93,Suppressed,Suppressed,Suppressed,1148
+1542,2018,Pike,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,47
+1543,2018,Unknown,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,
+1544,2019,Benton,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,81
+1545,2019,Crawford,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,35
+1546,2019,Floyd,Hispanic,17,35,Suppressed,Suppressed,Suppressed,697
+1547,2019,Huntington,Hispanic,Suppressed,16,Suppressed,Suppressed,Suppressed,236
+1548,2019,Jennings,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,155
+1549,2019,Marion,Hispanic,1341,2393,Suppressed,17,246,23903
+1550,2019,Martin,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,28
+1551,2019,Vigo,Hispanic,Suppressed,23,Suppressed,Suppressed,Suppressed,555
+1552,2014,Brown,Non-Hispanic White,27,Suppressed,Suppressed,Suppressed,Suppressed,2074
+1553,2014,Clinton,Non-Hispanic White,93,354,Suppressed,Suppressed,27,4669
+1554,2014,Daviess,Non-Hispanic White,184,492,Suppressed,6,Suppressed,5346
+1555,2014,Huntington,Non-Hispanic White,127,407,Suppressed,Suppressed,Suppressed,6459
+1556,2014,Jennings,Non-Hispanic White,Suppressed,351,Suppressed,Suppressed,42,4909
+1557,2014,Morgan,Non-Hispanic White,186,720,Suppressed,Suppressed,60,12003
+1558,2014,Posey,Non-Hispanic White,Suppressed,254,Suppressed,Suppressed,Suppressed,4245
+1559,2014,Steuben,Non-Hispanic White,108,342,Suppressed,Suppressed,Suppressed,5532
+1560,2014,Union,Non-Hispanic White,21,82,Suppressed,Suppressed,Suppressed,1237
+1561,2014,Warrick,Non-Hispanic White,136,630,Suppressed,Suppressed,Suppressed,10021
+1562,2015,Clay,Non-Hispanic White,117,336,Suppressed,Suppressed,38,4651
+1563,2015,De Kalb,Non-Hispanic White,Suppressed,517,Suppressed,Suppressed,Suppressed,7307
+1564,2015,Fountain,Non-Hispanic White,52,191,Suppressed,Suppressed,Suppressed,2638
+1565,2015,Franklin,Non-Hispanic White,Suppressed,220,Suppressed,Suppressed,Suppressed,3807
+1566,2015,Hendricks,Non-Hispanic White,296,1539,Suppressed,Suppressed,142,25930
+1567,2016,Clay,Non-Hispanic White,Suppressed,304,Suppressed,Suppressed,39,4505
+1568,2016,Dubois,Non-Hispanic White,74,484,Suppressed,6,54,6537
+1569,2016,Hendricks,Non-Hispanic White,299,1523,Suppressed,Suppressed,147,25865
+1570,2016,Lagrange,Non-Hispanic White,391,705,Suppressed,Suppressed,44,6681
+1571,2016,Lawrence,Non-Hispanic White,129,475,Suppressed,6,42,7308
+1572,2016,Orange,Non-Hispanic White,Suppressed,227,Suppressed,Suppressed,Suppressed,3133
+1573,2016,Starke,Non-Hispanic White,87,267,Suppressed,Suppressed,Suppressed,3728
+1574,2016,Sullivan,Non-Hispanic White,Suppressed,Suppressed,Suppressed,5,17,3197
+1575,2016,White,Non-Hispanic White,70,247,Suppressed,Suppressed,15,3364
+1576,2017,Adams,Non-Hispanic White,390,669,Suppressed,8,Suppressed,5691
+1577,2017,Fountain,Non-Hispanic White,Suppressed,178,Suppressed,Suppressed,18,2578
+1578,2017,Jefferson,Non-Hispanic White,72,344,Suppressed,Suppressed,Suppressed,5760
+1579,2017,Kosciusko,Non-Hispanic White,501,926,Suppressed,Suppressed,73,12710
+1580,2017,Lagrange,Non-Hispanic White,407,727,Suppressed,6,Suppressed,6675
+1581,2017,Sullivan,Non-Hispanic White,56,205,Suppressed,Suppressed,Suppressed,3174
+1582,2018,Blackford,Non-Hispanic White,34,Suppressed,Suppressed,Suppressed,14,1799
+1583,2018,Clinton,Non-Hispanic White,79,326,Suppressed,Suppressed,Suppressed,4544
+1584,2018,Franklin,Non-Hispanic White,69,161,Suppressed,Suppressed,Suppressed,3659
+1585,2018,Greene,Non-Hispanic White,Suppressed,361,Suppressed,Suppressed,Suppressed,5050
+1586,2018,Jackson,Non-Hispanic White,98,450,Suppressed,Suppressed,36,6949
+1587,2018,Jefferson,Non-Hispanic White,68,307,Suppressed,Suppressed,28,5729
+1588,2018,Jennings,Non-Hispanic White,101,302,Suppressed,Suppressed,18,4585
+1589,2018,Martin,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,1557
+1590,2018,Noble,Non-Hispanic White,213,536,Suppressed,Suppressed,Suppressed,7207
+1591,2018,Porter,Non-Hispanic White,358,1343,Suppressed,Suppressed,129,25290
+1592,2018,Randolph,Non-Hispanic White,53,237,Suppressed,Suppressed,Suppressed,3891
+1593,2018,Sullivan,Non-Hispanic White,Suppressed,212,Suppressed,Suppressed,Suppressed,3120
+1594,2018,Switzerland,Non-Hispanic White,37,109,Suppressed,Suppressed,Suppressed,1680
+1595,2019,Benton,Non-Hispanic White,Suppressed,98,Suppressed,Suppressed,Suppressed,1364
+1596,2019,Brown,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,2043
+1597,2019,De Kalb,Non-Hispanic White,225,525,Suppressed,Suppressed,Suppressed,7360
+1598,2019,Elkhart,Non-Hispanic White,720,1995,Suppressed,14,151,27470
+1599,2019,Henry,Non-Hispanic White,95,433,Suppressed,Suppressed,Suppressed,7296
+1600,2019,Jackson,Non-Hispanic White,119,450,Suppressed,Suppressed,61,6872
+1601,2019,Lagrange,Non-Hispanic White,373,691,Suppressed,Suppressed,Suppressed,6715
+1602,2019,Ohio,Non-Hispanic White,Suppressed,35,Suppressed,Suppressed,Suppressed,857
+1603,2019,Steuben,Non-Hispanic White,99,346,Suppressed,Suppressed,33,5181
+1604,2019,Vanderburgh,Non-Hispanic White,322,1689,Suppressed,6,183,29137
+1605,2019,Warren,Non-Hispanic White,Suppressed,69,Suppressed,Suppressed,Suppressed,1271
+1606,2014,Cass,All,189,515,Suppressed,Suppressed,48,6777
+1607,2014,Fountain,All,65,180,Suppressed,Suppressed,12,2805
+1608,2014,Jay,All,112,339,Suppressed,Suppressed,30,3734
+1609,2014,Kosciusko,All,689,1080,Suppressed,9,97,14626
+1610,2014,Putnam,All,77,353,Suppressed,Suppressed,28,6912
+1611,2014,Ripley,All,80,331,Suppressed,Suppressed,30,5117
+1612,2014,Shelby,All,141,522,Suppressed,Suppressed,60,7980
+1613,2014,Steuben,All,127,366,Suppressed,Suppressed,29,5918
+1614,2015,Carroll,All,64,195,Suppressed,Suppressed,18,3402
+1615,2015,Greene,All,70,337,Suppressed,Suppressed,38,5470
+1616,2015,Harrison,All,99,452,Suppressed,Suppressed,54,6935
+1617,2015,Hendricks,All,378,1761,Suppressed,14,164,30781
+1618,2015,Jasper,All,120,382,Suppressed,Suppressed,41,6157
+1619,2015,Owen,All,55,228,Suppressed,Suppressed,25,3397
+1620,2015,Posey,All,58,285,Suppressed,Suppressed,23,4390
+1621,2015,Putnam,All,70,362,Suppressed,Suppressed,29,6865
+1622,2016,Adams,All,361,676,Suppressed,7,47,6087
+1623,2016,Brown,All,38,114,Suppressed,Suppressed,Suppressed,2223
+1624,2016,Cass,All,170,480,Suppressed,8,53,6550
+1625,2016,Crawford,All,27,104,Suppressed,Suppressed,12,1741
+1626,2016,Fulton,All,101,238,Suppressed,Suppressed,27,3418
+1627,2016,Jay,All,111,291,Suppressed,7,37,3660
+1628,2016,Jennings,All,100,316,Suppressed,Suppressed,25,4940
+1629,2016,Montgomery,All,128,456,Suppressed,5,46,6466
+1630,2016,Newton,All,45,148,Suppressed,Suppressed,16,2286
+1631,2016,Parke,All,93,207,Suppressed,Suppressed,15,3340
+1632,2016,Switzerland,All,45,125,Suppressed,Suppressed,11,1772
+1633,2017,Boone,All,113,770,Suppressed,Suppressed,70,12452
+1634,2017,Carroll,All,53,238,Suppressed,Suppressed,19,3359
+1635,2017,Delaware,All,227,1122,Suppressed,15,123,25989
+1636,2017,Elkhart,All,1241,3092,Suppressed,26,283,38901
+1637,2017,Owen,All,44,206,Suppressed,Suppressed,14,3407
+1638,2017,Perry,All,51,214,Suppressed,Suppressed,22,2934
+1639,2017,Pulaski,All,46,129,Suppressed,Suppressed,14,2025
+1640,2017,Wabash,All,89,316,Suppressed,Suppressed,32,5571
+1641,2018,Boone,All,92,778,Suppressed,5,68,12635
+1642,2018,Carroll,All,64,217,Suppressed,Suppressed,19,3343
+1643,2018,Dearborn,All,121,538,Suppressed,Suppressed,40,8551
+1644,2018,Decatur,All,91,333,Suppressed,Suppressed,30,4834
+1645,2018,Hancock,All,115,787,Suppressed,5,71,14025
+1646,2018,Harrison,All,95,415,Suppressed,Suppressed,50,6989
+1647,2018,Lagrange,All,427,783,Suppressed,8,56,7155
+1648,2018,Parke,All,90,196,Suppressed,Suppressed,21,3369
+1649,2018,Pike,All,28,152,Suppressed,Suppressed,24,2015
+1650,2018,St. Joseph,All,1302,3492,Suppressed,24,422,54838
+1651,2018,Starke,All,81,275,Suppressed,Suppressed,34,3964
+1652,2018,Warrick,All,125,607,Suppressed,Suppressed,62,11140
+1653,2018,Whitley,All,112,353,Suppressed,Suppressed,32,5850
+1654,2019,Clark,All,387,1414,Suppressed,5,140,22762
+1655,2019,Clay,All,77,318,Suppressed,Suppressed,25,4669
+1656,2019,Elkhart,All,1179,3029,5,21,259,39104
+1657,2019,Jay,All,127,297,Suppressed,Suppressed,28,3389
+1658,2019,Marion,All,5435,14045,20,110,1540,212864
+1659,2019,Morgan,All,168,741,Suppressed,Suppressed,75,12240
+1660,2019,Noble,All,275,632,Suppressed,6,42,8588
+1661,2019,Randolph,All,79,257,Suppressed,Suppressed,25,4126
+1662,2019,Scott,All,88,276,Suppressed,Suppressed,25,4352
+1663,2019,Tippecanoe,All,498,2066,Suppressed,7,208,47137
+1664,2019,White,All,73,311,Suppressed,Suppressed,38,3908
+1665,2014,Elkhart,Non-Hispanic Black,141,254,Suppressed,Suppressed,42,2436
+1666,2014,Fayette,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,50
+1667,2014,Floyd,Non-Hispanic Black,27,67,Suppressed,Suppressed,Suppressed,844
+1668,2014,Marion,Non-Hispanic Black,2017,4613,12,62,662,60383
+1669,2014,Tippecanoe,Non-Hispanic Black,124,230,Suppressed,Suppressed,29,2443
+1670,2015,Bartholomew,Non-Hispanic Black,14,35,Suppressed,Suppressed,Suppressed,314
+1671,2015,Crawford,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,3
+1672,2015,Dubois,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,29
+1673,2015,Grant,Non-Hispanic Black,28,75,Suppressed,Suppressed,Suppressed,897
+1674,2015,Hamilton,Non-Hispanic Black,40,162,Suppressed,Suppressed,23,2719
+1675,2015,Henry,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,77
+1676,2015,Johnson,Non-Hispanic Black,21,57,Suppressed,Suppressed,Suppressed,597
+1677,2015,Kosciusko,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,144
+1678,2015,Lake,Non-Hispanic Black,615,1716,Suppressed,27,209,25151
+1679,2015,Randolph,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,23
+1680,2015,Rush,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,29
+1681,2016,Blackford,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,6
+1682,2016,Dearborn,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,49
+1683,2016,Hendricks,Non-Hispanic Black,31,91,Suppressed,Suppressed,Suppressed,2069
+1684,2016,Henry,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,64
+1685,2016,Lawrence,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,25
+1686,2016,Martin,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,7
+1687,2016,Morgan,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,50
+1688,2016,Owen,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,13
+1689,2016,Spencer,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,26
+1690,2016,Union,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,5
+1691,2016,Wabash,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,92
+1692,2017,Blackford,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,5
+1693,2017,Clinton,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,22
+1694,2017,Dearborn,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,48
+1695,2017,Lake,Non-Hispanic Black,629,1719,Suppressed,39,206,24270
+1696,2017,Starke,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,15
+1697,2017,Washington,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,15
+1698,2017,Whitley,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,19
+1699,2018,Adams,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,38
+1700,2018,Carroll,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,21
+1701,2018,Decatur,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,28
+1702,2018,Harrison,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,34
+1703,2018,Howard,Non-Hispanic Black,51,135,Suppressed,Suppressed,Suppressed,1285
+1704,2018,Jefferson,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,222
+1705,2018,Jennings,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,36
+1706,2018,Martin,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,5
+1707,2018,Monroe,Non-Hispanic Black,23,71,Suppressed,Suppressed,12,1654
+1708,2018,Shelby,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,97
+1709,2018,Steuben,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,42
+1710,2018,Warrick,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,177
+1711,2018,Wayne,Non-Hispanic Black,16,42,Suppressed,Suppressed,Suppressed,559
+1712,2018,Unknown,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,
+1713,2019,Greene,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,13
+1714,2019,Hancock,Non-Hispanic Black,Suppressed,27,Suppressed,Suppressed,Suppressed,469
+1715,2019,Montgomery,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,42
+1716,2019,Orange,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,63
+1717,2019,Parke,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,260
+1718,2019,Switzerland,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,8
+1719,2014,Elkhart,Hispanic,307,600,Suppressed,Suppressed,Suppressed,6809
+1720,2014,Gibson,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,107
+1721,2014,Pike,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,36
+1722,2014,Putnam,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,160
+1723,2014,Shelby,Hispanic,Suppressed,24,Suppressed,Suppressed,Suppressed,369
+1724,2015,Carroll,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,161
+1725,2015,Crawford,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,36
+1726,2015,Dearborn,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,119
+1727,2015,Hancock,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,380
+1728,2015,Marion,Hispanic,846,2096,Suppressed,16,211,20756
+1729,2015,Shelby,Hispanic,Suppressed,37,Suppressed,Suppressed,Suppressed,379
+1730,2015,Vanderburgh,Hispanic,30,81,Suppressed,Suppressed,Suppressed,1079
+1731,2016,Boone,Hispanic,Suppressed,17,Suppressed,Suppressed,Suppressed,402
+1732,2016,Decatur,Hispanic,Suppressed,13,Suppressed,Suppressed,Suppressed,97
+1733,2016,Hamilton,Hispanic,47,124,Suppressed,Suppressed,19,2937
+1734,2016,Henry,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,133
+1735,2016,Lake,Hispanic,399,1136,Suppressed,Suppressed,Suppressed,20695
+1736,2016,LaPorte,Hispanic,Suppressed,113,Suppressed,Suppressed,Suppressed,1476
+1737,2016,Lawrence,Hispanic,Suppressed,14,Suppressed,Suppressed,Suppressed,167
+1738,2016,Montgomery,Hispanic,Suppressed,36,Suppressed,Suppressed,Suppressed,325
+1739,2016,Vermillion,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,46
+1740,2017,Bartholomew,Hispanic,52,101,Suppressed,Suppressed,Suppressed,1093
+1741,2017,Crawford,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,34
+1742,2017,Elkhart,Hispanic,352,700,Suppressed,Suppressed,62,7201
+1743,2017,Fayette,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,48
+1744,2017,Jasper,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,504
+1745,2017,LaPorte,Hispanic,Suppressed,101,Suppressed,Suppressed,Suppressed,1519
+1746,2017,Miami,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,194
+1747,2017,Pike,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,49
+1748,2017,Pulaski,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,89
+1749,2017,Vermillion,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,45
+1750,2017,Whitley,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,160
+1751,2018,Franklin,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,44
+1752,2018,Fulton,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,225
+1753,2018,Montgomery,Hispanic,Suppressed,27,Suppressed,Suppressed,Suppressed,365
+1754,2018,Porter,Hispanic,58,184,Suppressed,Suppressed,17,4221
+1755,2018,Posey,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,61
+1756,2018,Randolph,Hispanic,Suppressed,22,Suppressed,Suppressed,Suppressed,175
+1757,2018,Shelby,Hispanic,14,37,Suppressed,Suppressed,Suppressed,399
+1758,2018,Spencer,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,133
+1759,2018,Tipton,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,99
+1760,2019,Delaware,Hispanic,Suppressed,34,Suppressed,Suppressed,Suppressed,843
+1761,2019,Jay,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,121
+1762,2019,Jefferson,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,263
+1763,2019,Putnam,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,159
+1764,2019,Rush,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,74
+1765,2019,St. Joseph,Hispanic,200,452,Suppressed,Suppressed,43,5956
+1766,2019,Union,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,27
+1767,2019,Unknown,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,
+1768,2014,Carroll,Non-Hispanic White,52,205,Suppressed,Suppressed,Suppressed,3231
+1769,2014,Fayette,Non-Hispanic White,Suppressed,244,Suppressed,Suppressed,Suppressed,3891
+1770,2014,Marion,Non-Hispanic White,1993,7168,Suppressed,39,673,112345
+1771,2014,Spencer,Non-Hispanic White,37,232,Suppressed,Suppressed,18,3240
+1772,2014,Wabash,Non-Hispanic White,109,310,Suppressed,Suppressed,31,5346
+1773,2015,Floyd,Non-Hispanic White,151,781,Suppressed,Suppressed,67,12867
+1774,2015,Hamilton,Non-Hispanic White,441,3323,Suppressed,Suppressed,287,51536
+1775,2015,Knox,Non-Hispanic White,73,401,Suppressed,Suppressed,Suppressed,6202
+1776,2015,Orange,Non-Hispanic White,Suppressed,232,Suppressed,Suppressed,17,3197
+1777,2015,Owen,Non-Hispanic White,Suppressed,218,Suppressed,Suppressed,Suppressed,3237
+1778,2015,Washington,Non-Hispanic White,Suppressed,325,Suppressed,Suppressed,Suppressed,4764
+1779,2015,Wells,Non-Hispanic White,88,318,Suppressed,Suppressed,Suppressed,4472
+1780,2016,Carroll,Non-Hispanic White,63,207,Suppressed,Suppressed,15,3161
+1781,2016,Clark,Non-Hispanic White,315,1180,Suppressed,Suppressed,151,18497
+1782,2016,Spencer,Non-Hispanic White,29,182,Suppressed,Suppressed,13,3154
+1783,2016,Tipton,Non-Hispanic White,36,149,Suppressed,Suppressed,Suppressed,2313
+1784,2017,Brown,Non-Hispanic White,37,Suppressed,Suppressed,Suppressed,Suppressed,2076
+1785,2017,Fulton,Non-Hispanic White,91,206,Suppressed,Suppressed,22,3033
+1786,2017,Hendricks,Non-Hispanic White,263,1473,Suppressed,Suppressed,126,25862
+1787,2017,Noble,Non-Hispanic White,193,527,Suppressed,5,34,7170
+1788,2017,Pike,Non-Hispanic White,22,132,Suppressed,Suppressed,13,1908
+1789,2017,Ripley,Non-Hispanic White,111,323,Suppressed,6,Suppressed,4734
+1790,2017,St. Joseph,Non-Hispanic White,675,2231,5,16,226,37557
+1791,2017,Union,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,1152
+1792,2018,Brown,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,2107
+1793,2018,Fayette,Non-Hispanic White,62,209,Suppressed,Suppressed,Suppressed,3831
+1794,2018,Hendricks,Non-Hispanic White,213,1387,Suppressed,Suppressed,123,26126
+1795,2018,Johnson,Non-Hispanic White,306,1630,Suppressed,8,150,26740
+1796,2018,Lake,Non-Hispanic White,663,2398,Suppressed,15,199,43421
+1797,2018,Starke,Non-Hispanic White,75,259,Suppressed,Suppressed,34,3681
+1798,2019,Decatur,Non-Hispanic White,Suppressed,278,Suppressed,Suppressed,29,4494
+1799,2019,Hendricks,Non-Hispanic White,246,1360,Suppressed,Suppressed,137,26401
+1800,2019,Jay,Non-Hispanic White,113,265,Suppressed,Suppressed,Suppressed,3186
+1801,2019,Johnson,Non-Hispanic White,299,1589,Suppressed,9,159,26641
+1802,2019,Marshall,Non-Hispanic White,133,415,Suppressed,5,48,6653
+1803,2019,Montgomery,Non-Hispanic White,85,414,Suppressed,Suppressed,Suppressed,5797
+1804,2019,Owen,Non-Hispanic White,Suppressed,211,Suppressed,Suppressed,20,3230
+1805,2019,Porter,Non-Hispanic White,347,1274,Suppressed,Suppressed,135,25228
+1806,2019,Rush,Non-Hispanic White,Suppressed,190,Suppressed,Suppressed,Suppressed,2736
+1807,2019,Tippecanoe,Non-Hispanic White,275,1386,Suppressed,Suppressed,135,33824
+1808,2014,Daviess,All,199,531,Suppressed,6,49,5817
+1809,2014,Scott,All,87,266,Suppressed,Suppressed,24,4357
+1810,2014,Starke,All,90,257,Suppressed,Suppressed,28,4050
+1811,2014,Switzerland,All,51,128,Suppressed,Suppressed,17,1753
+1812,2014,Tipton,All,42,164,Suppressed,Suppressed,19,2568
+1813,2014,Wabash,All,119,330,Suppressed,Suppressed,31,5750
+1814,2015,De Kalb,All,190,530,Suppressed,Suppressed,38,7760
+1815,2015,Delaware,All,279,1188,Suppressed,7,135,26841
+1816,2015,Franklin,All,61,226,Suppressed,Suppressed,28,3936
+1817,2015,Jennings,All,94,314,Suppressed,Suppressed,26,5079
+1818,2015,Knox,All,82,431,Suppressed,Suppressed,46,6980
+1819,2015,Madison,All,367,1510,Suppressed,9,153,23538
+1820,2015,Switzerland,All,47,126,Suppressed,Suppressed,14,1760
+1821,2015,Wayne,All,271,788,Suppressed,8,80,12009
+1822,2016,Clark,All,434,1448,5,14,192,22480
+1823,2016,Daviess,All,200,536,Suppressed,Suppressed,62,5836
+1824,2016,Floyd,All,239,915,Suppressed,Suppressed,111,14673
+1825,2016,Gibson,All,80,420,Suppressed,Suppressed,53,5875
+1826,2016,Jasper,All,123,395,Suppressed,7,48,6170
+1827,2016,Knox,All,95,452,Suppressed,Suppressed,43,6839
+1828,2016,Ohio,All,13,52,Suppressed,Suppressed,Suppressed,915
+1829,2016,Scott,All,96,288,Suppressed,Suppressed,28,4275
+1830,2016,Vanderburgh,All,510,2262,5,14,292,36474
+1831,2017,Dubois,All,109,572,Suppressed,Suppressed,66,7280
+1832,2017,Grant,All,193,780,Suppressed,6,92,13019
+1833,2017,Orange,All,88,254,Suppressed,Suppressed,16,3268
+1834,2017,Steuben,All,116,343,Suppressed,Suppressed,41,5677
+1835,2017,Tipton,All,42,147,Suppressed,Suppressed,11,2436
+1836,2018,Cass,All,124,415,Suppressed,Suppressed,34,6599
+1837,2018,Dubois,All,106,514,Suppressed,Suppressed,58,7245
+1838,2018,Fountain,All,56,197,Suppressed,Suppressed,15,2743
+1839,2018,Henry,All,83,496,Suppressed,Suppressed,41,7764
+1840,2018,Jefferson,All,87,360,Suppressed,7,40,6382
+1841,2018,LaPorte,All,505,1265,Suppressed,10,142,18244
+1842,2018,Morgan,All,184,741,Suppressed,5,78,12182
+1843,2018,Noble,All,268,640,Suppressed,Suppressed,40,8603
+1844,2018,Orange,All,98,261,Suppressed,Suppressed,26,3279
+1845,2018,Perry,All,65,212,Suppressed,Suppressed,23,2906
+1846,2018,Shelby,All,104,496,Suppressed,7,49,7820
+1847,2018,Tippecanoe,All,536,2157,Suppressed,19,226,46386
+1848,2019,Allen,All,2346,5299,5,32,508,76053
+1849,2019,Clinton,All,125,456,Suppressed,Suppressed,42,5792
+1850,2019,Crawford,All,39,123,Suppressed,Suppressed,22,1662
+1851,2019,Dubois,All,104,532,Suppressed,Suppressed,71,7167
+1852,2019,Fulton,All,82,242,Suppressed,Suppressed,22,3358
+1853,2019,Parke,All,96,193,Suppressed,Suppressed,20,3371
+1854,2019,Vanderburgh,All,505,2173,Suppressed,15,257,35951
+1855,2014,Adams,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,15
+1856,2014,Allen,Non-Hispanic Black,456,808,Suppressed,15,104,9687
+1857,2014,Brown,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,13
+1858,2014,Clark,Non-Hispanic Black,Suppressed,127,Suppressed,Suppressed,16,1716
+1859,2014,De Kalb,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,34
+1860,2014,Huntington,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,87
+1861,2014,Tipton,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,7
+1862,2015,Boone,Non-Hispanic Black,Suppressed,15,Suppressed,Suppressed,Suppressed,205
+1863,2015,De Kalb,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,33
+1864,2015,Marion,Non-Hispanic Black,1803,4564,Suppressed,47,636,60938
+1865,2015,Posey,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,44
+1866,2015,Putnam,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,127
+1867,2015,Wayne,Non-Hispanic Black,16,43,Suppressed,Suppressed,Suppressed,586
+1868,2016,Fountain,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,15
+1869,2016,Miami,Non-Hispanic Black,Suppressed,13,Suppressed,Suppressed,Suppressed,108
+1870,2016,Perry,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,13
+1871,2016,Washington,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,17
+1872,2016,Whitley,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,21
+1873,2017,Fountain,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,14
+1874,2017,Hancock,Non-Hispanic Black,Suppressed,24,Suppressed,Suppressed,Suppressed,391
+1875,2017,Montgomery,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,41
+1876,2017,Orange,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,42
+1877,2017,Perry,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,12
+1878,2017,Porter,Non-Hispanic Black,32,84,Suppressed,Suppressed,11,1633
+1879,2017,Switzerland,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,7
+1880,2017,Wayne,Non-Hispanic Black,15,46,Suppressed,Suppressed,Suppressed,538
+1881,2018,Allen,Non-Hispanic Black,492,857,Suppressed,11,105,9586
+1882,2018,Grant,Non-Hispanic Black,26,81,Suppressed,Suppressed,11,824
+1883,2018,Hamilton,Non-Hispanic Black,51,181,Suppressed,Suppressed,19,3093
+1884,2018,Huntington,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,75
+1885,2018,LaPorte,Non-Hispanic Black,104,196,Suppressed,Suppressed,31,2035
+1886,2018,Owen,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,16
+1887,2018,Ripley,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,28
+1888,2018,Union,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,8
+1889,2019,Allen,Non-Hispanic Black,481,878,Suppressed,Suppressed,114,9675
+1890,2019,Daviess,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,102
+1891,2019,Howard,Non-Hispanic Black,55,123,Suppressed,Suppressed,Suppressed,1347
+1892,2019,Jackson,Non-Hispanic Black,Suppressed,10,Suppressed,Suppressed,Suppressed,88
+1893,2019,Jay,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,16
+1894,2019,Starke,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,14
+1895,2019,Washington,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,18
+1896,2019,Wayne,Non-Hispanic Black,15,51,Suppressed,Suppressed,Suppressed,552
+1897,2014,Blackford,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,38
+1898,2014,Floyd,Hispanic,Suppressed,28,Suppressed,Suppressed,Suppressed,466
+1899,2014,Fulton,Hispanic,Suppressed,19,Suppressed,Suppressed,Suppressed,215
+1900,2014,Jay,Hispanic,Suppressed,10,Suppressed,Suppressed,Suppressed,115
+1901,2014,Jennings,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,142
+1902,2014,Lake,Hispanic,447,1206,Suppressed,Suppressed,126,20097
+1903,2014,Marion,Hispanic,925,2052,Suppressed,13,208,20585
+1904,2014,Newton,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,187
+1905,2014,Wabash,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,176
+1906,2015,Daviess,Hispanic,14,33,Suppressed,Suppressed,Suppressed,319
+1907,2015,Hamilton,Hispanic,41,140,Suppressed,Suppressed,17,2745
+1908,2015,Marshall,Hispanic,42,96,Suppressed,Suppressed,Suppressed,968
+1909,2015,Sullivan,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,55
+1910,2015,Wabash,Hispanic,Suppressed,10,Suppressed,Suppressed,Suppressed,192
+1911,2016,Clark,Hispanic,57,124,Suppressed,Suppressed,20,1284
+1912,2016,Clinton,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,1055
+1913,2016,Fayette,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,46
+1914,2016,Owen,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,59
+1915,2016,Tippecanoe,Hispanic,114,298,Suppressed,Suppressed,Suppressed,3804
+1916,2016,Whitley,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,162
+1917,2017,Clark,Hispanic,49,111,Suppressed,Suppressed,14,1371
+1918,2017,Daviess,Hispanic,12,28,Suppressed,Suppressed,Suppressed,331
+1919,2017,Dubois,Hispanic,26,71,Suppressed,Suppressed,Suppressed,641
+1920,2017,Fulton,Hispanic,Suppressed,13,Suppressed,Suppressed,Suppressed,229
+1921,2017,Harrison,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,141
+1922,2017,Jackson,Hispanic,69,104,Suppressed,Suppressed,Suppressed,505
+1923,2017,Knox,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,180
+1924,2017,Martin,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,28
+1925,2017,Tipton,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,89
+1926,2017,Wells,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,172
+1927,2018,Cass,Hispanic,51,119,Suppressed,Suppressed,Suppressed,1304
+1928,2018,Fountain,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,86
+1929,2018,Perry,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,56
+1930,2018,Switzerland,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,55
+1931,2018,Wabash,Hispanic,Suppressed,13,Suppressed,Suppressed,Suppressed,178
+1932,2018,Wayne,Hispanic,10,22,Suppressed,Suppressed,Suppressed,433
+1933,2019,Boone,Hispanic,Suppressed,28,Suppressed,Suppressed,Suppressed,514
+1934,2019,Cass,Hispanic,55,135,Suppressed,Suppressed,Suppressed,1406
+1935,2019,Kosciusko,Hispanic,51,103,Suppressed,Suppressed,Suppressed,1407
+1936,2019,LaPorte,Hispanic,Suppressed,118,Suppressed,Suppressed,Suppressed,1598
+1937,2019,Lawrence,Hispanic,Suppressed,12,Suppressed,Suppressed,Suppressed,171
+1938,2019,Morgan,Hispanic,Suppressed,22,Suppressed,Suppressed,Suppressed,263
+1939,2019,Perry,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,55
+1940,2019,Shelby,Hispanic,16,30,Suppressed,Suppressed,Suppressed,400
+1941,2019,Starke,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,218
+1942,2019,Sullivan,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,43
+1943,2014,Allen,Non-Hispanic White,1490,3642,Suppressed,26,350,52504
+1944,2014,Crawford,Non-Hispanic White,39,Suppressed,Suppressed,Suppressed,20,1729
+1945,2014,Fulton,Non-Hispanic White,107,254,Suppressed,Suppressed,Suppressed,3217
+1946,2014,Hendricks,Non-Hispanic White,328,1595,Suppressed,Suppressed,144,25886
+1947,2014,Jefferson,Non-Hispanic White,78,354,Suppressed,Suppressed,Suppressed,5946
+1948,2014,Newton,Non-Hispanic White,34,112,Suppressed,Suppressed,11,2083
+1949,2014,Parke,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,23,3184
+1950,2014,Putnam,Non-Hispanic White,Suppressed,343,Suppressed,Suppressed,28,6400
+1951,2014,Wayne,Non-Hispanic White,230,678,Suppressed,Suppressed,48,10658
+1952,2015,Adams,Non-Hispanic White,364,642,Suppressed,Suppressed,Suppressed,5674
+1953,2015,Benton,Non-Hispanic White,27,101,Suppressed,Suppressed,Suppressed,1367
+1954,2015,Hancock,Non-Hispanic White,114,772,Suppressed,Suppressed,78,12310
+1955,2015,Monroe,Non-Hispanic White,198,1137,Suppressed,Suppressed,100,31294
+1956,2015,Rush,Non-Hispanic White,41,183,Suppressed,Suppressed,18,2786
+1957,2015,Spencer,Non-Hispanic White,38,174,Suppressed,Suppressed,Suppressed,3201
+1958,2015,Steuben,Non-Hispanic White,118,390,Suppressed,Suppressed,Suppressed,5493
+1959,2015,White,Non-Hispanic White,79,250,Suppressed,Suppressed,Suppressed,3412
+1960,2016,Adams,Non-Hispanic White,354,643,Suppressed,7,Suppressed,5676
+1961,2016,Boone,Non-Hispanic White,103,752,Suppressed,6,68,10906
+1962,2016,Clinton,Non-Hispanic White,85,338,Suppressed,Suppressed,26,4559
+1963,2016,Fayette,Non-Hispanic White,Suppressed,211,Suppressed,Suppressed,Suppressed,3872
+1964,2016,Fountain,Non-Hispanic White,52,157,Suppressed,Suppressed,Suppressed,2623
+1965,2016,Kosciusko,Non-Hispanic White,469,877,Suppressed,Suppressed,66,12733
+1966,2016,Morgan,Non-Hispanic White,221,790,Suppressed,Suppressed,Suppressed,11878
+1967,2016,Putnam,Non-Hispanic White,76,368,Suppressed,Suppressed,Suppressed,6322
+1968,2016,Randolph,Non-Hispanic White,67,266,Suppressed,Suppressed,33,3980
+1969,2016,Steuben,Non-Hispanic White,126,387,Suppressed,Suppressed,Suppressed,5260
+1970,2016,Vermillion,Non-Hispanic White,Suppressed,149,Suppressed,Suppressed,16,2516
+1971,2016,Warren,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,1226
+1972,2017,Boone,Non-Hispanic White,99,690,Suppressed,Suppressed,65,11065
+1973,2017,Clinton,Non-Hispanic White,79,335,Suppressed,Suppressed,Suppressed,4551
+1974,2017,Daviess,Non-Hispanic White,195,507,Suppressed,Suppressed,31,5354
+1975,2017,Gibson,Non-Hispanic White,66,374,Suppressed,Suppressed,Suppressed,5456
+1976,2017,Johnson,Non-Hispanic White,321,1580,Suppressed,Suppressed,135,26669
+1977,2017,Miami,Non-Hispanic White,99,370,Suppressed,Suppressed,Suppressed,5212
+1978,2017,Monroe,Non-Hispanic White,189,1040,Suppressed,Suppressed,84,31117
+1979,2017,Newton,Non-Hispanic White,33,120,Suppressed,Suppressed,Suppressed,2030
+1980,2017,Tipton,Non-Hispanic White,Suppressed,141,Suppressed,Suppressed,Suppressed,2291
+1981,2018,Clay,Non-Hispanic White,Suppressed,313,Suppressed,Suppressed,Suppressed,4448
+1982,2018,Fountain,Non-Hispanic White,Suppressed,176,Suppressed,Suppressed,Suppressed,2589
+1983,2018,Fulton,Non-Hispanic White,76,226,Suppressed,Suppressed,Suppressed,3057
+1984,2018,Union,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,1127
+1985,2018,Wayne,Non-Hispanic White,244,661,Suppressed,5,77,10171
+1986,2018,White,Non-Hispanic White,60,237,Suppressed,Suppressed,Suppressed,3370
+1987,2019,Blackford,Non-Hispanic White,35,Suppressed,Suppressed,Suppressed,14,1779
+1988,2019,Howard,Non-Hispanic White,213,814,Suppressed,Suppressed,62,11990
+1989,2019,Jefferson,Non-Hispanic White,66,337,Suppressed,Suppressed,25,5732
+1990,2019,Pulaski,Non-Hispanic White,Suppressed,124,Suppressed,Suppressed,Suppressed,1849
+1991,2019,Warrick,Non-Hispanic White,82,562,Suppressed,Suppressed,62,10300
+1992,2014,Clark,All,462,1433,Suppressed,15,144,22445
+1993,2014,Clay,All,93,306,Suppressed,Suppressed,40,4832
+1994,2014,Decatur,All,101,333,Suppressed,Suppressed,23,4894
+1995,2014,Delaware,All,298,1231,Suppressed,10,153,27103
+1996,2014,Floyd,All,221,873,Suppressed,Suppressed,99,14599
+1997,2014,Orange,All,64,214,Suppressed,Suppressed,10,3436
+1998,2014,Owen,All,59,216,Suppressed,Suppressed,16,3459
+1999,2014,Pulaski,All,61,146,Suppressed,Suppressed,Suppressed,2157
+2000,2014,St. Joseph,All,1185,3480,Suppressed,34,282,54589
+2001,2014,Washington,All,114,311,Suppressed,Suppressed,27,4964
+2002,2015,Crawford,All,28,118,Suppressed,Suppressed,17,1737
+2003,2015,Fulton,All,108,260,Suppressed,Suppressed,28,3518
+2004,2015,Grant,All,208,757,Suppressed,6,89,13447
+2005,2015,Jackson,All,139,576,Suppressed,Suppressed,47,8042
+2006,2015,Lake,All,1864,5910,5,43,546,94339
+2007,2015,Marion,All,4771,14432,14,116,1598,205730
+2008,2015,Martin,All,28,130,Suppressed,Suppressed,16,1713
+2009,2015,Union,All,16,69,Suppressed,Suppressed,Suppressed,1284
+2010,2016,Allen,All,1981,5140,Suppressed,43,463,73897
+2011,2016,Clinton,All,139,445,Suppressed,Suppressed,33,5701
+2012,2016,Franklin,All,51,260,Suppressed,Suppressed,20,3875
+2013,2016,Hancock,All,124,790,Suppressed,Suppressed,81,13649
+2014,2016,Harrison,All,87,468,Suppressed,6,42,6903
+2015,2016,Noble,All,212,589,Suppressed,6,47,8606
+2016,2016,Perry,All,71,207,Suppressed,Suppressed,21,2954
+2017,2016,Steuben,All,140,416,Suppressed,Suppressed,42,5688
+2018,2016,Tipton,All,42,160,Suppressed,Suppressed,16,2458
+2019,2016,Washington,All,126,323,Suppressed,Suppressed,31,4881
+2020,2017,Allen,All,2165,5200,5,38,498,74361
+2021,2017,Blackford,All,31,125,Suppressed,Suppressed,16,1932
+2022,2017,Gibson,All,72,395,Suppressed,Suppressed,39,5839
+2023,2017,Harrison,All,114,427,Suppressed,Suppressed,49,6833
+2024,2017,Hendricks,All,356,1724,Suppressed,8,152,31366
+2025,2017,Howard,All,286,971,Suppressed,9,99,14720
+2026,2017,Porter,All,458,1652,Suppressed,9,168,32066
+2027,2017,White,All,67,300,Suppressed,Suppressed,23,3945
+2028,2017,Whitley,All,127,412,Suppressed,5,38,5750
+2029,2018,Jackson,All,199,604,Suppressed,5,56,7994
+2030,2018,Johnson,All,392,1880,Suppressed,8,178,30890
+2031,2018,Martin,All,34,110,Suppressed,Suppressed,11,1616
+2032,2018,Spencer,All,33,183,Suppressed,Suppressed,11,3346
+2033,2018,Vanderburgh,All,562,2106,Suppressed,17,210,35819
+2034,2019,Hancock,All,109,850,Suppressed,Suppressed,64,14413
+2035,2019,Henry,All,103,460,Suppressed,Suppressed,49,7700
+2036,2019,Jefferson,All,83,389,Suppressed,Suppressed,43,6417
+2037,2019,Martin,All,30,119,Suppressed,Suppressed,Suppressed,1626
+2038,2019,Spencer,All,38,217,Suppressed,Suppressed,17,3316
+2039,2019,Vermillion,All,37,140,Suppressed,Suppressed,19,2599
+2040,2019,Wabash,All,97,323,Suppressed,Suppressed,39,5507
+2041,2019,Warrick,All,96,618,Suppressed,Suppressed,69,11353
+2042,2019,Washington,All,99,331,Suppressed,Suppressed,29,4903
+2043,2014,Grant,Non-Hispanic Black,27,71,Suppressed,Suppressed,Suppressed,897
+2044,2014,Hamilton,Non-Hispanic Black,44,143,Suppressed,Suppressed,Suppressed,2694
+2045,2014,Harrison,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,28
+2046,2014,Jefferson,Non-Hispanic Black,Suppressed,13,Suppressed,Suppressed,Suppressed,190
+2047,2014,Orange,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,30
+2048,2014,Shelby,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,87
+2049,2015,Clinton,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,14
+2050,2015,Daviess,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,52
+2051,2015,Delaware,Non-Hispanic Black,37,111,Suppressed,Suppressed,Suppressed,1987
+2052,2015,Elkhart,Non-Hispanic Black,158,288,Suppressed,Suppressed,Suppressed,2523
+2053,2015,Hancock,Non-Hispanic Black,Suppressed,23,Suppressed,Suppressed,Suppressed,383
+2054,2015,Scott,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,12
+2055,2015,Steuben,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,43
+2056,2015,Tippecanoe,Non-Hispanic Black,100,233,Suppressed,Suppressed,36,2569
+2057,2015,Wabash,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,83
+2058,2016,Allen,Non-Hispanic Black,396,754,Suppressed,15,100,9563
+2059,2016,Clay,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,15
+2060,2016,Fulton,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,16
+2061,2016,LaPorte,Non-Hispanic Black,133,219,Suppressed,Suppressed,30,2045
+2062,2016,Parke,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,237
+2063,2016,Vanderburgh,Non-Hispanic Black,120,306,Suppressed,Suppressed,49,3653
+2064,2016,Warren,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,5
+2065,2016,Wayne,Non-Hispanic Black,26,50,Suppressed,Suppressed,Suppressed,587
+2066,2017,Adams,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,29
+2067,2017,Allen,Non-Hispanic Black,487,863,Suppressed,12,102,9585
+2068,2017,Boone,Non-Hispanic Black,Suppressed,16,Suppressed,Suppressed,Suppressed,287
+2069,2017,Fayette,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,41
+2070,2017,Jennings,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,27
+2071,2017,Putnam,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,126
+2072,2017,Sullivan,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,13
+2073,2017,Vigo,Non-Hispanic Black,43,95,Suppressed,Suppressed,11,1545
+2074,2018,Marshall,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,54
+2075,2018,St. Joseph,Non-Hispanic Black,355,718,Suppressed,Suppressed,111,8107
+2076,2018,Scott,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,21
+2077,2018,Washington,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,20
+2078,2019,Boone,Non-Hispanic Black,Suppressed,22,Suppressed,Suppressed,Suppressed,324
+2079,2019,Hendricks,Non-Hispanic Black,49,137,Suppressed,Suppressed,10,2675
+2080,2019,Jasper,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,64
+2081,2019,Kosciusko,Non-Hispanic Black,Suppressed,13,Suppressed,Suppressed,Suppressed,148
+2082,2019,Miami,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,96
+2083,2019,Owen,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,16
+2084,2019,Pulaski,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,20
+2085,2019,Ripley,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,28
+2086,2019,Wabash,Non-Hispanic Black,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,71
+2087,2014,Benton,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,97
+2088,2014,Daviess,Hispanic,Suppressed,33,Suppressed,Suppressed,Suppressed,326
+2089,2014,Sullivan,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,57
+2090,2014,Tipton,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,77
+2091,2015,Brown,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,50
+2092,2015,Clinton,Hispanic,Suppressed,116,Suppressed,Suppressed,Suppressed,1027
+2093,2015,Franklin,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,45
+2094,2015,Howard,Hispanic,Suppressed,28,Suppressed,Suppressed,Suppressed,558
+2095,2015,Lake,Hispanic,468,1280,Suppressed,10,107,20419
+2096,2015,Lawrence,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,169
+2097,2015,Newton,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,180
+2098,2015,Owen,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,61
+2099,2015,Pulaski,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,93
+2100,2015,Scott,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,117
+2101,2015,Spencer,Hispanic,Suppressed,12,Suppressed,Suppressed,Suppressed,125
+2102,2015,Switzerland,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,55
+2103,2015,Tippecanoe,Hispanic,85,266,Suppressed,Suppressed,16,3694
+2104,2016,Carroll,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,190
+2105,2016,Lagrange,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,356
+2106,2016,Scott,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,104
+2107,2016,Spencer,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,134
+2108,2017,Clay,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,83
+2109,2017,Clinton,Hispanic,46,Suppressed,Suppressed,Suppressed,Suppressed,1100
+2110,2017,Dearborn,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,119
+2111,2017,Henry,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,146
+2112,2017,Johnson,Hispanic,27,67,Suppressed,Suppressed,10,1344
+2113,2017,Lagrange,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,348
+2114,2017,Lake,Hispanic,405,1197,Suppressed,11,110,21132
+2115,2017,Lawrence,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,167
+2116,2017,St. Joseph,Hispanic,176,413,Suppressed,Suppressed,36,5629
+2117,2017,Spencer,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,136
+2118,2017,Switzerland,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,53
+2119,2017,Union,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,27
+2120,2018,Dubois,Hispanic,Suppressed,76,Suppressed,Suppressed,10,658
+2121,2018,Elkhart,Hispanic,339,718,Suppressed,Suppressed,70,7316
+2122,2018,Floyd,Hispanic,22,34,Suppressed,Suppressed,Suppressed,598
+2123,2018,Jennings,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,143
+2124,2018,Lagrange,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,350
+2125,2018,Parke,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,64
+2126,2018,Sullivan,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,45
+2127,2018,Tippecanoe,Hispanic,91,259,Suppressed,Suppressed,29,4060
+2128,2018,Washington,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,89
+2129,2019,Montgomery,Hispanic,10,25,Suppressed,Suppressed,Suppressed,373
+2130,2019,Ohio,Hispanic,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,27
+2131,2019,Wells,Hispanic,13,21,Suppressed,Suppressed,Suppressed,184
+2132,2014,Boone,Non-Hispanic White,119,720,Suppressed,Suppressed,65,10558
+2133,2014,Decatur,Non-Hispanic White,Suppressed,324,Suppressed,Suppressed,23,4632
+2134,2014,Dubois,Non-Hispanic White,77,484,Suppressed,5,52,6654
+2135,2014,Hamilton,Non-Hispanic White,485,3392,Suppressed,12,355,51288
+2136,2014,Jackson,Non-Hispanic White,121,539,Suppressed,Suppressed,Suppressed,7194
+2137,2014,Jay,Non-Hispanic White,105,322,Suppressed,Suppressed,Suppressed,3547
+2138,2014,Miami,Non-Hispanic White,122,362,Suppressed,Suppressed,Suppressed,5415
+2139,2014,Pulaski,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,2001
+2140,2014,Sullivan,Non-Hispanic White,81,Suppressed,Suppressed,Suppressed,30,3244
+2141,2014,Vigo,Non-Hispanic White,388,1185,Suppressed,Suppressed,126,18626
+2142,2015,Boone,Non-Hispanic White,101,705,Suppressed,Suppressed,71,10814
+2143,2015,Brown,Non-Hispanic White,40,Suppressed,Suppressed,Suppressed,Suppressed,2122
+2144,2015,Union,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,1220
+2145,2016,Crawford,Non-Hispanic White,27,Suppressed,Suppressed,Suppressed,12,1662
+2146,2016,Dearborn,Non-Hispanic White,107,484,Suppressed,Suppressed,Suppressed,8293
+2147,2016,Decatur,Non-Hispanic White,89,354,Suppressed,Suppressed,21,4574
+2148,2016,Hamilton,Non-Hispanic White,449,3296,Suppressed,11,300,51926
+2149,2016,Jackson,Non-Hispanic White,128,518,Suppressed,Suppressed,Suppressed,7112
+2150,2016,Madison,Non-Hispanic White,289,1279,Suppressed,Suppressed,134,19677
+2151,2016,Martin,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,19,1605
+2152,2016,Monroe,Non-Hispanic White,202,1065,Suppressed,Suppressed,94,31194
+2153,2016,Ohio,Non-Hispanic White,13,52,Suppressed,Suppressed,Suppressed,882
+2154,2016,Owen,Non-Hispanic White,Suppressed,203,Suppressed,Suppressed,28,3264
+2155,2016,Vanderburgh,Non-Hispanic White,344,1821,Suppressed,Suppressed,228,29980
+2156,2017,Clay,Non-Hispanic White,94,306,Suppressed,Suppressed,Suppressed,4458
+2157,2017,Lake,Non-Hispanic White,644,2560,Suppressed,Suppressed,203,43849
+2158,2017,Marshall,Non-Hispanic White,174,500,Suppressed,Suppressed,34,6813
+2159,2017,Morgan,Non-Hispanic White,195,783,Suppressed,Suppressed,Suppressed,11764
+2160,2017,Porter,Non-Hispanic White,374,1393,Suppressed,Suppressed,147,25211
+2161,2017,Posey,Non-Hispanic White,54,248,Suppressed,Suppressed,Suppressed,4119
+2162,2017,Whitley,Non-Hispanic White,122,398,Suppressed,5,Suppressed,5446
+2163,2018,Cass,Non-Hispanic White,59,273,Suppressed,Suppressed,22,4924
+2164,2018,Crawford,Non-Hispanic White,Suppressed,107,Suppressed,Suppressed,10,1609
+2165,2018,Daviess,Non-Hispanic White,204,514,Suppressed,Suppressed,41,5328
+2166,2018,De Kalb,Non-Hispanic White,202,515,Suppressed,Suppressed,41,7361
+2167,2018,Jasper,Non-Hispanic White,89,314,Suppressed,Suppressed,Suppressed,5375
+2168,2018,Lagrange,Non-Hispanic White,398,729,Suppressed,Suppressed,48,6668
+2169,2018,LaPorte,Non-Hispanic White,342,927,Suppressed,Suppressed,96,13986
+2170,2018,Lawrence,Non-Hispanic White,140,513,Suppressed,Suppressed,Suppressed,7310
+2171,2018,Pike,Non-Hispanic White,Suppressed,Suppressed,Suppressed,Suppressed,24,1918
+2172,2018,St. Joseph,Non-Hispanic White,697,2211,Suppressed,12,240,37191
+2173,2018,Tippecanoe,Non-Hispanic White,313,1480,Suppressed,11,144,33631
+2174,2018,Warrick,Non-Hispanic White,110,550,Suppressed,Suppressed,55,10167
+2175,2018,Whitley,Non-Hispanic White,Suppressed,342,Suppressed,Suppressed,Suppressed,5512
+2176,2019,Kosciusko,Non-Hispanic White,275,805,Suppressed,Suppressed,85,12448
+2177,2019,Lawrence,Non-Hispanic White,123,483,Suppressed,Suppressed,Suppressed,7244
+2178,2019,Miami,Non-Hispanic White,125,385,Suppressed,Suppressed,43,5059
+2179,2019,Parke,Non-Hispanic White,96,Suppressed,Suppressed,Suppressed,20,2999
+2180,2019,Posey,Non-Hispanic White,Suppressed,250,Suppressed,Suppressed,Suppressed,4021
+2181,2019,Scott,Non-Hispanic White,76,237,Suppressed,Suppressed,16,4054
+2182,2019,Vigo,Non-Hispanic White,244,1047,Suppressed,Suppressed,145,17885
+2183,2014,Boone,All,132,786,Suppressed,Suppressed,71,11601
+2184,2014,Hancock,All,153,732,Suppressed,Suppressed,82,13345
+2185,2014,Jackson,All,165,620,Suppressed,6,51,7996
+2186,2014,Jennings,All,102,363,Suppressed,Suppressed,42,5158
+2187,2014,Lawrence,All,125,486,Suppressed,Suppressed,45,7795
+2188,2014,Miami,All,130,378,Suppressed,Suppressed,42,5830
+2189,2014,Monroe,All,259,1309,Suppressed,9,122,38742
+2190,2014,Porter,All,442,1824,Suppressed,10,161,32499
+2191,2014,White,All,99,276,Suppressed,Suppressed,20,3975
+2192,2015,Clinton,All,145,465,Suppressed,6,44,5718
+2193,2015,Dubois,All,89,572,Suppressed,8,68,7413
+2194,2015,LaPorte,All,665,1340,Suppressed,15,131,18761
+2195,2015,Porter,All,481,1714,Suppressed,8,121,32358
+2196,2016,Clay,All,113,312,Suppressed,Suppressed,39,4689
+2197,2016,Dearborn,All,115,500,Suppressed,Suppressed,43,8637
+2198,2016,Hendricks,All,375,1762,Suppressed,12,170,30970
+2199,2016,Johnson,All,430,1881,Suppressed,9,164,29891
+2200,2017,Adams,All,400,693,Suppressed,8,45,6113
+2201,2017,Fountain,All,47,185,Suppressed,Suppressed,18,2730
+2202,2017,Hancock,All,149,843,Suppressed,Suppressed,97,13808
+2203,2017,Newton,All,44,139,Suppressed,Suppressed,17,2316
+2204,2017,Parke,All,95,205,Suppressed,Suppressed,20,3306
+2205,2018,Kosciusko,All,486,1024,Suppressed,Suppressed,90,14562
+2206,2018,Switzerland,All,49,128,Suppressed,Suppressed,15,1778
+2207,2018,Wabash,All,98,318,Suppressed,Suppressed,34,5561
+2208,2018,Warren,All,23,75,Suppressed,Suppressed,Suppressed,1349
+2209,2018,Wayne,All,287,782,Suppressed,5,89,11753
+2210,2018,White,All,73,275,Suppressed,Suppressed,23,3897
+2211,2019,Adams,All,442,683,Suppressed,7,58,6179
+2212,2019,Carroll,All,47,212,Suppressed,Suppressed,25,3380
+2213,2019,Lake,All,2012,5684,Suppressed,34,577,92969
+2214,2019,Orange,All,70,238,Suppressed,Suppressed,23,3309
+2215,2019,St. Joseph,All,1233,3437,6,30,349,55417
+2216,2019,Sullivan,All,54,209,Suppressed,Suppressed,23,3227

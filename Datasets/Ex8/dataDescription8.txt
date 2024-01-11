@@ -1,0 +1,26 @@
+Equity Portal - Infant and Maternal Health Data
+
+This dataset provides information on the counts for infant and maternal health by county, race and year. Below are some items to be aware of as you utilize the dataset:
+
+    Infant mortality is defined as the death of a baby before his/her first birthday.
+
+    Infant mortality rate is an estimate of the number of infant deaths for every 1,000 live births.
+
+    Infant mortality is the No. 1 indicator of health status in the world.
+
+    Non-Hispanic Black infants in Indiana have a higher mortality rate than any other race/ethnicity.
+
+    Although infant mortality rates may be declining, SUID rates continue to increase.
+
+    According to the Centers for Disease Control and Prevention (CDC), Sudden Infant Death Syndrome, or SIDS, is the fourth leading cause of death for children under one year of age in the US.
+
+    Sleep-related injury is the third leading cause of death for infants in Indiana.
+
+    Pregnant individuals should begin prenatal care as soon as they are aware of the pregnancy, ideally in the first three months. They should continue seeing their provider throughout the entire pregnancy. This is important because providers can identify any issues with the baby or the pregnant individual as soon as possible. In 2019 only 68.9% of individuals received prenatal care during the first trimester, an improvement over 2018.
+
+    About 45% of Non-Hispanic Black and Hispanic individuals did not receive early prenatal care versus 26.3% of Non-Hispanic Whites.
+
+    Babies have the best chance to be born healthy when moms and families are healthy too. A common problem for babies born in Indiana is being born too early. In 2019, 10.1% of infants were born preterm (<37 weeks gestation). Non-Hispanic Black babies were more likely to be born preterm (13.0%), then Hispanic babies (9.8%), and Non-Hispanic white infants were least likely (9.4%).
+
+    While receiving prenatal care, it is important that individuals are open and honest with their providers about any medications taken, substances used or problems experienced at home, even if it's uncomfortable to talk about. The Indiana Department of Health's Maternal and Child Health (MCH) Division supports home visiting services in many communities throughout Indiana to ensure women have the support they need for a healthy pregnancy. Visit out website at: https://www.in.gov/isdh/26154.htm for more information about the Indiana Department of Health initiatives to protect our most vulnerable Hoosiers.
+

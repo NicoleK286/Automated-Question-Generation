@@ -1,0 +1,6 @@
+Medicaid Claims of Returning Citizens
+
+This dataset provides information related to returning citizens released from a Department of Corrections facility and enrolled in Medicaid during the time period 01/2019 to 03/2022. It contains total number of paid Medicaid claims, cost, and median cost by recipient county. This data is for research purposes and is not intended to be used for reporting. Due to differences in geographic aggregation, time period considerations, and units of analysis, these numbers may differ from those reported by FSSA.
+
+https://hub.mph.in.gov/dataset/medicaid-claims-of-returning-citizens
+

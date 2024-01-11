@@ -1,0 +1,21 @@
+ Hoosier Health and Well-being By County and Demographics
+
+In August of 2018, FSSA’s Office of Healthy Opportunities deployed a social risk assessment survey. The 10-question survey was made available to anyone applying online through FSSA for health coverage, the Supplemental Nutritional Assistance Program or Temporary Assistance for Needy Families.
+
+The results of this survey are aggregated and presented below and can help communities better understand the social risk factors affecting the health of those applying for our services.
+
+Please read and review the following information regarding the use of this data prior to viewing the tool.
+
+    This survey was made available to those individuals who applied online ONLY and does not represent anyone who applied in-person, by telephone, by mail or any other method. In 2018, online applications accounted for 79% of those who applied for SNAP, TANF or health coverage.
+
+    Survey completion is voluntary and does not impact eligibility for SNAP, TANF or health coverage.
+
+    Applications are filed at a household level and may represent several individuals. The application process identifies a primary contact person for the household, and that individual’s demographics are represented on the dashboard; for example, person’s gender, race and education level.
+
+    An individual who completes more than one application and survey over any given time period is represented once for each instance, and the survey answers and demographic details are based on each application’s responses. For example, an applicant’s age, education level and survey answers can change over time, and the reporting reflects any such changes.
+
+    All information is presented in aggregate to ensure personally identifiable information is protected. To protect the privacy of individuals, data representing 20 or less individuals in any county will not be displayed. I.e. it will show as blank
+
+
+
+https://hub.mph.in.gov/dataset/hoosier-health-and-well-being-by-county-and-demographics

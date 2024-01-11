@@ -1,0 +1,10 @@
+Column Name,Column Description
+COUNTY,Mother's recorded county of residence as indicated closest to the delivery date 
+TOTAL_PRESCRIPTIONS,Overall total counts of prescriptions of mothers for mothers with a live birth during the time period 07/2016 to 07/2017 and have a substance use related claim within 2 years prior to the delivery
+TOTAL_PRESCRIPTION_COST,Overall total cost of prescriptions of mothers with a live birth during the time period 07/2016 to 07/2017 and have a substance use related claim within 2 years prior to the delivery
+TOTAL_PRESCRIPTIONS_PREBIRTHING_EVENT,Total number of prescriptions prescribed to mothers two years prior the delivery of the child with a live birth during the time period 07/2016 to 07/2017 and have a substance use related claim within 2 years prior to the delivery
+PRESCRIPTION_COST_PREBIRTHING_EVENT,Total cost of prescriptions prescribed to mothers two years prior to the delivery of the child with a live birth during the time period 07/2016 to 07/2017 and have a substance use related claim within 2 years prior to the delivery
+PREBIRTHING_MEDIAN_COST,Median cost of a prescription related to mothers two years prior to the delivery of the child with a live birth during the time period 07/2016 to 07/2017 and have a substance use related claim within 2 years prior to the delivery
+TOTAL_PRESCRIPTIONS_POSTBIRTHING_EVENT,Total number of prescriptions prescribed to mothers two years after the delivery of the child with a live birth during the time period 07/2016 to 07/2017 and have a substance use related claim within 2 years prior to the delivery
+PRESCRIPTION_COST_POSTBIRTHING_EVENT,Total cost of prescriptions prescribed to mothers two years after the delivery of the child with a live birth during the time period 07/2016 to 07/2017 and have a substance use related claim within 2 years prior to the delivery
+POSTBIRTHING_MEDIAN_COST,Median cost of a prescription related to mothers two years after the delivery of the child with a live birth during the time period 07/2016 to 07/2017 and have a substance use related claim within 2 years prior to the delivery

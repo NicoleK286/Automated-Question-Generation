@@ -1,0 +1,5 @@
+Column Name,Description
+COUNTY,Returning Citizens recorded county of residence as indicated on Medicaid application
+TOTAL_CLAIMS,Overall number of claims for returning citizens during the time period 01/2019 to 03/2022
+TOTAL_COST,Overall total dollar amount paid by Medicaid for returning citizens during the time period 01/2019 to 03/2020
+MEDIAN_COST,Median cost of a claims for returning citizens during the time period 01/2019 to 03/2020

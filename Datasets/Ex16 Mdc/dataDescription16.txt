@@ -1,0 +1,4 @@
+ Counties With or Without Hospital or Inpatient Delivery Services Available
+
+This dataset contains information on the counties with/without a hospital and/or an inpatient delivery services available in 2019.
+

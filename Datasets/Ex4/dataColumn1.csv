@@ -1,0 +1,5 @@
+Column Name,Column Description
+ZIP_CD,Zip Code
+PATIENT_COUNT,Case count in a particular zip code
+POPULATION,Total population in the given zip code as of 2010
+PERCENTAGE,percentage of COVID cases to total population in a given zip code.
